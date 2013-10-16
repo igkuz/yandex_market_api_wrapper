@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = YandexMarketApiWrapper::VERSION
   gem.authors       = ["Igor Kuznetsov"]
   gem.email         = ["igkuznetsov@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{YandexMarket API wrapper written in Ruby}
+  gem.summary       = %q{It's a wrapper for YandexMarket Api written in Ruby. Useful for clients having authoriztion key from yandex.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)

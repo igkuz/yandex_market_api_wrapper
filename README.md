@@ -1,6 +1,9 @@
 # YandexMarketApiWrapper
 
-TODO: Write a gem description
+It's a YandexMarket API wrapper written in Ruby. Will be useful for
+people having authorization key from Yandex. Provides a simple interface
+to make API calls to YandexMArket. Not all methods will be supported in
+the beginnig.
 
 ## Installation
 
@@ -18,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Some useful information will be provided later.
 
 ## Contributing
 
