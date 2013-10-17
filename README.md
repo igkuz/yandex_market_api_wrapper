@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/igkuz/yandex_market_api_wrapper.png)](https://travis-ci.org/igkuz/yandex_wrapper_api_client)
+[![Build Status](https://travis-ci.org/igkuz/yandex_market_api_wrapper.png)](https://travis-ci.org/igkuz/yandex_wrapper_api_wrapper)
 
 # YandexMarketApiWrapper
 
