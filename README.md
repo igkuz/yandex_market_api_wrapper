@@ -25,10 +25,13 @@ Or install it yourself as:
 
 ### Configuration
 
-There are several parameters that can be configured
-  * auth_key
-  * api_version
-  * default_format
+There are several parameters that can be configured:
+
+ * auth_key
+ * api_version
+ * default_format
+
+Code example:
 
     YandexMarketApiClient.configure do |config|
       config.auth_key = "Your Auth Key Here"
@@ -40,6 +43,7 @@ If no version or format options are provided, the default values will be
 seted.
 
 Default Yandex _api_version_ is **1**
+
 Default _deafult_format_ is **json**
 
 ## Contributing
