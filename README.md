@@ -4,7 +4,7 @@
 
 It's a YandexMarket API wrapper written in Ruby. Will be useful for
 people having authorization key from Yandex. Provides a simple interface
-to make API calls to YandexMArket. Not all methods will be supported in
+to make API calls to YandexMarket. Not all methods will be supported in
 the beginnig.
 
 ## Installation
@@ -23,7 +23,24 @@ Or install it yourself as:
 
 ## Usage
 
-Some useful information will be provided later.
+### Configuration
+
+There are several parameters that can be configured
+  * auth_key
+  * api_version
+  * default_format
+
+    YandexMarketApiClient.configure do |config|
+      config.auth_key = "Your Auth Key Here"
+      config.api_version = "1"
+      config.default_format = "json"
+    end
+
+If no version or format options are provided, the default values will be
+seted.
+
+Default Yandex _api_version_ is **1**
+Default _deafult_format_ is **json**
 
 ## Contributing
 
