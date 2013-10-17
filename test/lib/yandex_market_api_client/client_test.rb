@@ -10,5 +10,7 @@ class ClientTest < TestCase
   end
 
   def test_should_get_instance
+    @client = YandexMarketApiClient.get_client
+    assert_kind_of(YandexMarketApiClient::Client, @client)
   end
 end

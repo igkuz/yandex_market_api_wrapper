@@ -7,7 +7,7 @@ module YandexMarketApiClient
   autoload :Config, 'yandex_market_api_client/config'
   autoload :Client, 'yandex_market_api_client/client'
 
-  def get_client
+  def self.get_client
     Client.new
   end
 
@@ -15,7 +15,7 @@ module YandexMarketApiClient
     yield(config)
   end
 
-  def config
+  def self.config
     @config ||= Config.new
   end
 end

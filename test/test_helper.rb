@@ -4,6 +4,6 @@ Bundler.require
 require 'minitest/autorun'
 require 'webmock/minitest'
 
-class TestCase < Minitest::Test
+class TestCase < MiniTest::Unit::TestCase
 
 end
