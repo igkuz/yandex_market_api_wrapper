@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/igkuz/yandex_market_api_wrapper.png)](https://travis-ci.org/igkuz/yandex_wrapper_api_client)
+
 # YandexMarketApiWrapper
 
 It's a YandexMarket API wrapper written in Ruby. Will be useful for
