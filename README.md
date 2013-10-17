@@ -33,11 +33,13 @@ There are several parameters that can be configured:
 
 Code example:
 
-    YandexMarketApiClient.configure do |config|
-      config.auth_key = "Your Auth Key Here"
-      config.api_version = "1"
-      config.default_format = "json"
-    end
+```ruby
+YandexMarketApiClient.configure do |config|
+  config.auth_key = "Your Auth Key Here"
+  config.api_version = "1"
+  config.default_format = "json"
+end
+```
 
 If no version or format options are provided, the default values will be
 seted.
