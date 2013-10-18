@@ -11,7 +11,7 @@ module YandexMarketApiClient
     end
 
     def host
-      "http://api.content.market.yandex.ru"
+      "https://api.content.market.yandex.ru"
     end
   end
 end
