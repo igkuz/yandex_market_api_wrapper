@@ -1,6 +1,7 @@
 module YandexMarketApiClient
   class Config
-    attr_accessor :auth_key, :api_version, :default_format
+    # `host` accessor for tests only
+    attr_accessor :auth_key, :api_version, :default_format, :host
 
     def api_version
       @api_version ||= "1"

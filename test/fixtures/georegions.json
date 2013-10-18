@@ -1,0 +1,37 @@
+{
+  "georegions": {
+    "page": 1,
+    "count": 4,
+    "total": 4,
+    "items": [
+      {
+        "id": 225,
+        "name": "Россия",
+        "parentId": 10001,
+        "childrenCount": 10,
+        "type": "COUNTRY"
+      },
+      {
+        "id": 187,
+        "name": "Украина",
+        "parentId": 166,
+        "childrenCount": 8,
+        "type": "COUNTRY"
+      },
+      {
+        "id": 159,
+        "name": "Казахстан",
+        "parentId": 166,
+        "childrenCount": 16,
+        "type": "COUNTRY"
+      },
+      {
+        "id": 149,
+        "name": "Беларусь",
+        "parentId": 166,
+        "childrenCount": 8,
+        "type": "COUNTRY"
+      }
+    ]
+  }
+}
