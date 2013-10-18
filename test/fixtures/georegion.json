@@ -1,0 +1,10 @@
+{
+  "georegion":
+  {
+    "id":225,
+    "name":"Россия",
+    "parentId":10001,
+    "childrenCount":10,
+    "type":"COUNTRY"
+  }
+}

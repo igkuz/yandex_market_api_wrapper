@@ -21,4 +21,14 @@ class GeoregionResourceTest < TestCase
 
     assert_requested stub
   end
+
+  def test_getting_one_georegion
+    stub = stub_request(:get, @georegions_url % "georegion/1" + ".json").
+      to_return(@return.merge(body: load_fixture('georegion.json')))
+
+    @client.region(geo_id: 1).perform.parse
+
+    assert_requested stub
+  end
+
 end
