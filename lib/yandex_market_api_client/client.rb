@@ -26,6 +26,17 @@ module YandexMarketApiClient
       resource.required :geo_id
     end
 
+    get :category_children, "/v#{config.api_version}/category/{category_id}/children.#{format}" do |resource|
+      resource.optional :page, :count, :sort, :type
+      resource.required :geo_id
+    end
+
+    get :category_models, "/v#{config.api_version}/category/{category_id}/models.#{format}" do |resource|
+      resource.optional :page, :count, :sort,
+                        :vendor_id, :how    # how - asc или desc для сортировки
+      resource.required :geo_id
+    end
+
     get :regions, "/v#{config.api_version}/georegion.#{format}" do |resource|
       resource.optional :page, :count
     end
