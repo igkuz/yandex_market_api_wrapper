@@ -23,6 +23,11 @@ Or install it yourself as:
 
 ## Usage
 
+### Basic Information
+
+The structure of the api response will not be provided here in case of large data in it. 
+You can look for it in Yandex docs [here](http://api.yandex.ru/market/content/doc/dg/concepts/about.xml).
+
 ### Configuration
 
 There are several parameters that can be configured:
@@ -44,9 +49,50 @@ end
 If no version or format options are provided, the default values will be
 seted.
 
-Default Yandex _api_version_ is **1**
+Default Yandex *api_version* is **1**
 
-Default _deafult_format_ is **json**
+Default *deafult_format* is **json**
+
+### Client instance
+
+To get a client instance you have to call `get_client` method:
+
+```ruby
+client = YandexMarketApiClient.get_client
+```
+
+### Category Resource
+
+The api description is provided [here](http://api.yandex.ru/market/content/doc/dg/reference/categories.xml).
+List of optinal and required params provided in the docs on the link upper.
+
++ To get all categories:
+
+```ruby
+client.categories(geo_id: 255).perform.parse
+client.categories(geo_id: 255, page: 1, count: 10, sort: "name").perform.parse
+```
+
++ To get one category info:
+
+```ruby
+client.category(geo_id: 255, category_id: 1).perform.parse
+client.category(geo_id: 255, category_id: 1).perform.parse
+```
+
++ To get all category children:
+
+```ruby
+client.category_children(geo_id: 255, category_id: 1).perform.parse
+client.category_children(geo_id: 255, category_id: 1, page: 1, count: 10, sort: "name", type: "guru").perform.parse
+```
+
++ To get all category models:
+ 
+```ruby
+client.category_models(geo_id: 255, category_id: 1).perform.parse
+client.category_models(geo_id: 255, category_id: 1, page: 1, count: 10, sort: "name", vendor_id: 1, how: "asc").perform.parse
+```
 
 ## Contributing
 
