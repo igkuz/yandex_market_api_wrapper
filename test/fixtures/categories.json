@@ -1,6 +1,7 @@
 {
   "categories": {
     "items": [
+
       {
         "id": 7877999,
         "name": "Одежда, обувь и аксессуары",
@@ -11,6 +12,7 @@
         "visual": true,
         "type": "nonguru"
       },
+
       {
         "id": 90829,
         "name": "Книги",
@@ -21,6 +23,7 @@
         "visual": false,
         "type": "nonguru"
       },
+
       {
         "id": 91597,
         "name": "Строительство и ремонт",
@@ -31,6 +34,7 @@
         "visual": false,
         "type": "nonguru"
       },
+
       {
         "id": 90666,
         "name": "Все для дома и дачи",
@@ -41,6 +45,7 @@
         "visual": false,
         "type": "nonguru"
       },
+
       {
         "id": 91009,
         "name": "Компьютеры",
@@ -51,6 +56,7 @@
         "visual": false,
         "type": "nonguru"
       },
+
       {
         "id": 90402,
         "name": "Авто, мото",
@@ -61,6 +67,7 @@
         "visual": false,
         "type": "nonguru"
       },
+
       {
         "id": 91282,
         "name": "Подарки, сувениры, цветы",
@@ -71,6 +78,7 @@
         "visual": false,
         "type": "guru"
       },
+
       {
         "id": 91763,
         "name": "Оборудование",
@@ -81,6 +89,7 @@
         "visual": false,
         "type": "nonguru"
       },
+
       {
         "id": 6179129,
         "name": "Мебель",
@@ -91,6 +100,7 @@
         "visual": false,
         "type": "nonguru"
       },
+
       {
         "id": 90722,
         "name": "Все для офиса",
@@ -101,333 +111,7 @@
         "visual": false,
         "type": "nonguru"
       }
-    ],
-    "total": 22,
-    "count": 10,
-    "page": 1
-  }
-}
-{
-  "categories": {
-    "items": [
-      {
-        "id": 7877999,
-        "name": "Одежда, обувь и аксессуары",
-        "parentId": 90401,
-        "childrenCount": 6,
-        "offersNum": 3473424,
-        "modelsNum": 0,
-        "visual": true,
-        "type": "nonguru"
-      },
-      {
-        "id": 90829,
-        "name": "Книги",
-        "parentId": 90401,
-        "childrenCount": 17,
-        "offersNum": 3425134,
-        "modelsNum": 0,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 91597,
-        "name": "Строительство и ремонт",
-        "parentId": 90401,
-        "childrenCount": 19,
-        "offersNum": 1117378,
-        "modelsNum": 80740,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 90666,
-        "name": "Все для дома и дачи",
-        "parentId": 90401,
-        "childrenCount": 12,
-        "offersNum": 987600,
-        "modelsNum": 4116,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 91009,
-        "name": "Компьютеры",
-        "parentId": 90401,
-        "childrenCount": 23,
-        "offersNum": 912104,
-        "modelsNum": 72591,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 90402,
-        "name": "Авто, мото",
-        "parentId": 90401,
-        "childrenCount": 18,
-        "offersNum": 744796,
-        "modelsNum": 115748,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 91282,
-        "name": "Подарки, сувениры, цветы",
-        "parentId": 90401,
-        "childrenCount": 31,
-        "offersNum": 476554,
-        "modelsNum": 94055,
-        "visual": false,
-        "type": "guru"
-      },
-      {
-        "id": 91763,
-        "name": "Оборудование",
-        "parentId": 90401,
-        "childrenCount": 24,
-        "offersNum": 398142,
-        "modelsNum": 0,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 6179129,
-        "name": "Мебель",
-        "parentId": 90401,
-        "childrenCount": 12,
-        "offersNum": 375792,
-        "modelsNum": 1200,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 90722,
-        "name": "Все для офиса",
-        "parentId": 90401,
-        "childrenCount": 5,
-        "offersNum": 310415,
-        "modelsNum": 2642,
-        "visual": false,
-        "type": "nonguru"
-      }
-    ],
-    "total": 22,
-    "count": 10,
-    "page": 1
-  }
-}
-{
-  "categories": {
-    "items": [
-      {
-        "id": 7877999,
-        "name": "Одежда, обувь и аксессуары",
-        "parentId": 90401,
-        "childrenCount": 6,
-        "offersNum": 3473424,
-        "modelsNum": 0,
-        "visual": true,
-        "type": "nonguru"
-      },
-      {
-        "id": 90829,
-        "name": "Книги",
-        "parentId": 90401,
-        "childrenCount": 17,
-        "offersNum": 3425134,
-        "modelsNum": 0,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 91597,
-        "name": "Строительство и ремонт",
-        "parentId": 90401,
-        "childrenCount": 19,
-        "offersNum": 1117378,
-        "modelsNum": 80740,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 90666,
-        "name": "Все для дома и дачи",
-        "parentId": 90401,
-        "childrenCount": 12,
-        "offersNum": 987600,
-        "modelsNum": 4116,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 91009,
-        "name": "Компьютеры",
-        "parentId": 90401,
-        "childrenCount": 23,
-        "offersNum": 912104,
-        "modelsNum": 72591,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 90402,
-        "name": "Авто, мото",
-        "parentId": 90401,
-        "childrenCount": 18,
-        "offersNum": 744796,
-        "modelsNum": 115748,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 91282,
-        "name": "Подарки, сувениры, цветы",
-        "parentId": 90401,
-        "childrenCount": 31,
-        "offersNum": 476554,
-        "modelsNum": 94055,
-        "visual": false,
-        "type": "guru"
-      },
-      {
-        "id": 91763,
-        "name": "Оборудование",
-        "parentId": 90401,
-        "childrenCount": 24,
-        "offersNum": 398142,
-        "modelsNum": 0,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 6179129,
-        "name": "Мебель",
-        "parentId": 90401,
-        "childrenCount": 12,
-        "offersNum": 375792,
-        "modelsNum": 1200,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 90722,
-        "name": "Все для офиса",
-        "parentId": 90401,
-        "childrenCount": 5,
-        "offersNum": 310415,
-        "modelsNum": 2642,
-        "visual": false,
-        "type": "nonguru"
-      }
-    ],
-    "total": 22,
-    "count": 10,
-    "page": 1
-  }
-}
-{
-  "categories": {
-    "items": [
-      {
-        "id": 7877999,
-        "name": "Одежда, обувь и аксессуары",
-        "parentId": 90401,
-        "childrenCount": 6,
-        "offersNum": 3473424,
-        "modelsNum": 0,
-        "visual": true,
-        "type": "nonguru"
-      },
-      {
-        "id": 90829,
-        "name": "Книги",
-        "parentId": 90401,
-        "childrenCount": 17,
-        "offersNum": 3425134,
-        "modelsNum": 0,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 91597,
-        "name": "Строительство и ремонт",
-        "parentId": 90401,
-        "childrenCount": 19,
-        "offersNum": 1117378,
-        "modelsNum": 80740,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 90666,
-        "name": "Все для дома и дачи",
-        "parentId": 90401,
-        "childrenCount": 12,
-        "offersNum": 987600,
-        "modelsNum": 4116,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 91009,
-        "name": "Компьютеры",
-        "parentId": 90401,
-        "childrenCount": 23,
-        "offersNum": 912104,
-        "modelsNum": 72591,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 90402,
-        "name": "Авто, мото",
-        "parentId": 90401,
-        "childrenCount": 18,
-        "offersNum": 744796,
-        "modelsNum": 115748,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 91282,
-        "name": "Подарки, сувениры, цветы",
-        "parentId": 90401,
-        "childrenCount": 31,
-        "offersNum": 476554,
-        "modelsNum": 94055,
-        "visual": false,
-        "type": "guru"
-      },
-      {
-        "id": 91763,
-        "name": "Оборудование",
-        "parentId": 90401,
-        "childrenCount": 24,
-        "offersNum": 398142,
-        "modelsNum": 0,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 6179129,
-        "name": "Мебель",
-        "parentId": 90401,
-        "childrenCount": 12,
-        "offersNum": 375792,
-        "modelsNum": 1200,
-        "visual": false,
-        "type": "nonguru"
-      },
-      {
-        "id": 90722,
-        "name": "Все для офиса",
-        "parentId": 90401,
-        "childrenCount": 5,
-        "offersNum": 310415,
-        "modelsNum": 2642,
-        "visual": false,
-        "type": "nonguru"
-      }
+
     ],
     "total": 22,
     "count": 10,
