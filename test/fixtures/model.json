@@ -1,0 +1,210 @@
+{
+  "model": {
+    "id": 1101780478,
+    "name": "Футболка Fred Perry",
+    "description": "Поло Fred Perryмужское. Цвет: бирюзовый. Сезон: Осень-зима 2013/2014. С бесплатной доставкой и примеркой на Lamoda.",
+    "categoryId": 7812151,
+    "prices": {
+      "max": "3950",
+      "min": "1800",
+      "curCode": "RUR",
+      "curName": "руб."
+    },
+    "filters": [
+      {
+        "id": "7925349",
+        "name": "Цвет",
+        "shortname": "color",
+        "type": "ENUMERATOR",
+        "unit": "",
+        "enumFilterType": "COLOR",
+        "options": [
+          {
+            "valueId": "7925376",
+            "valueText": "синий",
+            "tag": "синий",
+            "code": "#3333FF"
+          },
+          {
+            "valueId": "7925384",
+            "valueText": "белый",
+            "tag": "белый",
+            "code": "#FFFFFF"
+          },
+          {
+            "valueId": "7925352",
+            "valueText": "красный",
+            "tag": "красный",
+            "code": "#FF0000"
+          },
+          {
+            "valueId": "7925373",
+            "valueText": "голубой",
+            "tag": "голубой",
+            "code": "#85D6FF"
+          }
+        ]
+      },
+      {
+        "id": "8224543",
+        "name": "Размер",
+        "shortname": "size",
+        "type": "ENUMERATOR",
+        "unit": "см",
+        "enumFilterType": "SIZE",
+        "options": [
+          {
+            "valueId": "18446744073709544588",
+            "valueText": "44",
+            "unit": "RU",
+            "unitName": "Российский"
+          },
+          {
+            "valueId": "18446744073709544587",
+            "valueText": "46",
+            "unit": "RU",
+            "unitName": "Российский"
+          },
+          {
+            "valueId": "18446744073709544586",
+            "valueText": "48",
+            "unit": "RU",
+            "unitName": "Российский"
+          },
+          {
+            "valueId": "18446744073709544585",
+            "valueText": "50",
+            "unit": "RU",
+            "unitName": "Российский"
+          },
+          {
+            "valueId": "18446744073709544584",
+            "valueText": "52",
+            "unit": "RU",
+            "unitName": "Российский"
+          },
+          {
+            "valueId": "18446744073709544583",
+            "valueText": "54",
+            "unit": "RU",
+            "unitName": "Российский"
+          },
+          {
+            "valueId": "18446744073709544582",
+            "valueText": "56",
+            "unit": "RU",
+            "unitName": "Российский"
+          },
+          {
+            "valueId": "18446744073709544562",
+            "valueText": "XS",
+            "unit": "INT",
+            "unitName": "Международный"
+          },
+          {
+            "valueId": "18446744073709544564",
+            "valueText": "S",
+            "unit": "INT",
+            "unitName": "Международный"
+          },
+          {
+            "valueId": "18446744073709544565",
+            "valueText": "M",
+            "unit": "INT",
+            "unitName": "Международный"
+          },
+          {
+            "valueId": "18446744073709544566",
+            "valueText": "L",
+            "unit": "INT",
+            "unitName": "Международный"
+          },
+          {
+            "valueId": "18446744073709544563",
+            "valueText": "XL",
+            "unit": "INT",
+            "unitName": "Международный"
+          },
+          {
+            "valueId": "18446744073709544574",
+            "valueText": "2XL",
+            "unit": "INT",
+            "unitName": "Международный"
+          }
+        ]
+      }
+    ],
+    "photos": [
+      {
+        "url": "http://0.cs-ellpic.yandex.net/market_SgjO-yXErA1NgexSTLe7xA_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "ASgrvJ5sWKAFGxzJtAN-5A",
+        "colorId": 7925374
+      },
+      {
+        "url": "http://1.cs-ellpic.yandex.net/market_kGzC3Lm_7l2jB13IlFodLw_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "ASgrvJ5sWKAFGxzJtAN-5A",
+        "colorId": 7925374
+      },
+      {
+        "url": "http://2.cs-ellpic.yandex.net/market_EXL-ACpUtXCt1SYbz9o_ug_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "ASgrvJ5sWKAFGxzJtAN-5A",
+        "colorId": 7925374
+      },
+      {
+        "url": "http://3.cs-ellpic.yandex.net/market_Ljbf_U7ixZAPz5G5_YyKKg_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "ASgrvJ5sWKAFGxzJtAN-5A",
+        "colorId": 7925374
+      },
+      {
+        "url": "http://4.cs-ellpic.yandex.net/market_Uo6xoABs6vfugWrI1ps5xg_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "HPOxJUmttNm0Hry0ndI2Kw",
+        "colorId": 7925384
+      },
+      {
+        "url": "http://5.cs-ellpic.yandex.net/market_6tr8e53_m6DV3TMN_FCvSw_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "HPOxJUmttNm0Hry0ndI2Kw",
+        "colorId": 7925384
+      },
+      {
+        "url": "http://6.cs-ellpic.yandex.net/market_SBhBlb5po7LFrvHHwlv5_g_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "HPOxJUmttNm0Hry0ndI2Kw",
+        "colorId": 7925384
+      },
+      {
+        "url": "http://7.cs-ellpic.yandex.net/market_S_4S1MM1ii_TkjncbipW4Q_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "HPOxJUmttNm0Hry0ndI2Kw",
+        "colorId": 7925384
+      },
+      {
+        "url": "http://8.cs-ellpic.yandex.net/market_xVZ18-FzOOQXcoxsnPCgQQ_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "Y7L4Ian2W3cuOMxhr1c0vw",
+        "colorId": 7925384
+      },
+      {
+        "url": "http://9.cs-ellpic.yandex.net/market_K3CjK5pS5PUVO9uFQvueYw_600x800.jpg",
+        "width": 600,
+        "height": 800,
+        "offerId": "Y7L4Ian2W3cuOMxhr1c0vw",
+        "colorId": 7925384
+      }
+    ]
+  }
+}

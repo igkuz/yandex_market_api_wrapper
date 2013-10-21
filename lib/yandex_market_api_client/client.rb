@@ -50,5 +50,13 @@ module YandexMarketApiClient
     get :region, "/v#{config.api_version}/georegion/{geo_id}.#{format}" do |resource|
       resource.optional :page, :count
     end
+
+    get :model, "/v#{config.api_version}/model/{model_id}.#{format}" do |resource|
+      resource.required :geo_id
+    end
+
+    get :model_details, "/v#{config.api_version}/model/{model_id}/details.#{format}" do |resource|
+      resource.optional :details_set # all, main
+    end
   end
 end
