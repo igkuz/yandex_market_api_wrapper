@@ -7,10 +7,8 @@ require 'webmock/minitest'
 require 'minitest/pride'
 Minitest::PrideIO.pride!
 
-if ENV["TRAVIS"]
-  require 'coveralls'
-  Coveralls.wear!
-end
+require 'coveralls'
+Coveralls.wear!
 
 Bundler.require
 
