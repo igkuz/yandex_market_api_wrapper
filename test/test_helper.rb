@@ -1,5 +1,4 @@
 require 'bundler/setup'
-Bundler.require
 
 require 'minitest/autorun'
 require 'webmock/minitest'
@@ -12,6 +11,8 @@ if ENV["TRAVIS"]
   require 'coveralls'
   Coveralls.wear!
 end
+
+Bundler.require
 
 # requiring helpers
 Dir[ File.join( File.dirname(__FILE__), "helpers/*.rb")].each { |file| require file }
