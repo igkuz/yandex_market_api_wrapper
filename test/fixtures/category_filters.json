@@ -1,0 +1,30 @@
+{
+  "filters": [
+    {
+      "id": "2140131888",
+      "name": "Минимальная цена",
+      "shortname": "min_price",
+      "type": "NUMERIC",
+      "unit": "руб.",
+      "minValue": "0",
+      "maxValue": "10000000"
+    },
+    {
+      "id": "2140131887",
+      "name": "Максимальная цена",
+      "shortname": "max_price",
+      "type": "NUMERIC",
+      "unit": "руб.",
+      "minValue": "0",
+      "maxValue": "10000000"
+    }, 
+    {
+      "id": "2142585907",
+      "name": "Bi-wiring",
+      "shortname": "BiwiringSpeaker",
+      "type": "BOOL",
+      "hasBoolNo": true
+    }
+  ]
+}
+

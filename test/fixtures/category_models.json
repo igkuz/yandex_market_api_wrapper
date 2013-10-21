@@ -1,0 +1,62 @@
+{
+  "models": {
+    "items": [
+      {
+        "id": 343488,
+        "name": "NS-555",
+        "description": "тип АС: напольная, пассивная, фазоинверторного типа, назначение: фронтальный громкоговоритель, 100 Вт, 88 дБ, 35-35000 Гц, Bi-wiring, 222x980x345 мм, магнитная защита",
+        "categoryId": 90548,
+        "prices": {
+          "max": "39000",
+          "min": "6900",
+          "avg": "14990",
+          "curCode": "RUR",
+          "curName": "руб."
+        },
+        "mainPhoto": {
+          "url": "http://mdata.yandex.net/i?path=b0129182319_img_id4572006153617451124.jpg",
+          "width": 501,
+          "height": 701
+        },
+        "vendor": "Yamaha",
+        "vendorId": 152866,
+        "offersCount": 19,
+        "isNew": 0,
+        "rating": 4.5,
+        "reviewsCount": 44,
+        "link": "http://market.yandex.ru/model.xml?modelid=343488&hid=90548",
+        "isGroup": false
+      },
+      {
+        "id": 343489,
+        "name": "NS-777",
+        "description": "тип АС: напольная, пассивная, фазоинверторного типа, назначение: фронтальный громкоговоритель, 100 Вт, 89 дБ, 30-35000 Гц, Bi-wiring, 276x1100x391 мм, магнитная защита",
+        "categoryId": 90548,
+        "prices": {
+          "max": "54700",
+          "min": "9399",
+          "avg": "18900",
+          "curCode": "RUR",
+          "curName": "руб."
+        },
+        "mainPhoto": {
+          "url": "http://mdata.yandex.net/i?path=b1111163301_img_id6879016018058279920.jpg",
+          "width": 370,
+          "height": 500
+        },
+        "vendor": "Yamaha",
+        "vendorId": 152866,
+        "offersCount": 14,
+        "isNew": 0,
+        "rating": 4.5,
+        "reviewsCount": 49,
+        "link": "http://market.yandex.ru/model.xml?modelid=343489&hid=90548",
+        "isGroup": false
+      }
+    ],
+    "total": 4612,
+    "count": 2,
+    "page": 1
+  }
+}
+

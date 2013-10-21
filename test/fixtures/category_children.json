@@ -1,0 +1,110 @@
+{
+  "categories": {
+    "items": [
+      {
+        "id": 90543,
+        "name": "Аудиотехника",
+        "parentId": 198119,
+        "childrenCount": 13,
+        "offersNum": 100685,
+        "modelsNum": 9549,
+        "visual": false,
+        "type": "nonguru"
+      },
+      {
+        "id": 90625,
+        "name": "Аксессуары",
+        "parentId": 198119,
+        "childrenCount": 10,
+        "offersNum": 69505,
+        "modelsNum": 3781,
+        "visual": false,
+        "type": "nonguru"
+      },
+      {
+        "id": 90607,
+        "name": "Фото",
+        "parentId": 198119,
+        "childrenCount": 11,
+        "offersNum": 47265,
+        "modelsNum": 4493,
+        "visual": false,
+        "type": "nonguru"
+      },
+      {
+        "id": 944108,
+        "name": "Портативная аудиотехника",
+        "parentId": 198119,
+        "childrenCount": 6,
+        "offersNum": 26022,
+        "modelsNum": 7178,
+        "visual": false,
+        "type": "nonguru"
+      },
+      {
+        "id": 90639,
+        "name": "Телевизоры и плазменные панели",
+        "parentId": 198119,
+        "childrenCount": 0,
+        "offersNum": 10448,
+        "modelsNum": 6075,
+        "visual": false,
+        "type": "guru"
+      },
+      {
+        "id": 4976480,
+        "name": "Оптические приборы",
+        "parentId": 198119,
+        "childrenCount": 6,
+        "offersNum": 9893,
+        "modelsNum": 2079,
+        "visual": false,
+        "type": "nonguru"
+      },
+      {
+        "id": 995785,
+        "name": "Навигационное оборудование",
+        "parentId": 198119,
+        "childrenCount": 4,
+        "offersNum": 8118,
+        "modelsNum": 1642,
+        "visual": false,
+        "type": "nonguru"
+      },
+      {
+        "id": 91470,
+        "name": "Рации",
+        "parentId": 198119,
+        "childrenCount": 0,
+        "offersNum": 5761,
+        "modelsNum": 442,
+        "visual": false,
+        "type": "guru"
+      },
+      {
+        "id": 90635,
+        "name": "Видеокамеры",
+        "parentId": 198119,
+        "childrenCount": 0,
+        "offersNum": 2652,
+        "modelsNum": 593,
+        "visual": false,
+        "type": "guru"
+      },
+      {
+        "id": 90633,
+        "name": "DVD и Blu-ray плееры",
+        "parentId": 198119,
+        "childrenCount": 0,
+        "offersNum": 2201,
+        "modelsNum": 1072,
+        "visual": false,
+        "type": "guru"
+      }
+    ],
+    "total": 16,
+    "count": 10,
+    "page": 1
+  }
+}
+

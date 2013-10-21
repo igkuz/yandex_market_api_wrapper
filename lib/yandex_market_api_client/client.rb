@@ -37,6 +37,12 @@ module YandexMarketApiClient
       resource.required :geo_id
     end
 
+    get :category_filters, "/v#{config.api_version}/category/{category_id}/filters.#{format}" do |resource|
+      resource.optional :filter_set, # basic, popular, all  basic - default
+                        :by_popularity #0, 1
+      resource.required :geo_id
+    end
+
     get :regions, "/v#{config.api_version}/georegion.#{format}" do |resource|
       resource.optional :page, :count
     end
