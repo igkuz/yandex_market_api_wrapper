@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/igkuz/yandex_market_api_wrapper.png)](https://travis-ci.org/igkuz/yandex_wrapper_api_wrapper)
+[![Coverage Status](https://coveralls.io/repos/igkuz/yandex_market_api_wrapper/badge.png)](https://coveralls.io/r/igkuz/yandex_market_api_wrapper)
 
 # YandexMarketApiWrapper
 
