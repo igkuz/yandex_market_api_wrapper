@@ -1,4 +1,5 @@
 require 'bundler/setup'
+Bundler.require
 
 require 'minitest/autorun'
 require 'webmock/minitest'
@@ -21,3 +22,6 @@ class TestCase < Minitest::Test
   include FixturesHelper
 
 end
+
+# requiring project files for ceverage
+Dir[ File.join( File.dirname(__FILE__), "../lib/**/*.rb")].each { |file| require file }
