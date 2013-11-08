@@ -33,4 +33,13 @@ class ModelResourceTest < TestCase
     assert_requested stub
   end
 
+  def test_getting_model_opinions
+    stub = stub_request(:get, @model_url % "model/1/opinion.json").
+      to_return(@return.merge(body: load_fixture('model_opinions.json')))
+
+    @client.model_opinions(model_id: 1).perform.parse
+
+    assert_requested stub
+  end
+
 end
