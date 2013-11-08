@@ -58,5 +58,13 @@ module YandexMarketApiClient
     get :model_details, "/v#{config.api_version}/model/{model_id}/details.#{format}" do |resource|
       resource.optional :details_set # all, main
     end
+
+    get :model_opinions, "/v#{config.api_version}/model/{model_id}/opinion.#{format}" do |resource|
+      resource.optional :sort, # grade, rank, date - default
+                        :how, # asc, desc - default
+                        :grade, # 2, 1, 0, -1, -2
+                        :page, :count
+    end
+
   end
 end
