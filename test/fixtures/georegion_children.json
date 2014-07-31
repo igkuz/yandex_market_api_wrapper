@@ -1,0 +1,79 @@
+{
+  "georegions": {
+    "page": 1,
+    "count": 10,
+    "total": 11,
+    "items": [
+      {
+        "id": 3,
+        "name": "Центр",
+        "parentId": 225,
+        "childrenCount": 19,
+        "type": "COUNTRY_DISTRICT"
+      },
+      {
+        "id": 17,
+        "name": "Северо-Запад",
+        "parentId": 225,
+        "childrenCount": 12,
+        "type": "COUNTRY_DISTRICT"
+      },
+      {
+        "id": 26,
+        "name": "Юг",
+        "parentId": 225,
+        "childrenCount": 8,
+        "type": "COUNTRY_DISTRICT"
+      },
+      {
+        "id": 102444,
+        "name": "Северный Кавказ",
+        "parentId": 225,
+        "childrenCount": 9,
+        "type": "COUNTRY_DISTRICT"
+      },
+      {
+        "id": 40,
+        "name": "Поволжье",
+        "parentId": 225,
+        "childrenCount": 16,
+        "type": "COUNTRY_DISTRICT"
+      },
+      {
+        "id": 52,
+        "name": "Урал",
+        "parentId": 225,
+        "childrenCount": 8,
+        "type": "COUNTRY_DISTRICT"
+      },
+      {
+        "id": 59,
+        "name": "Сибирь",
+        "parentId": 225,
+        "childrenCount": 14,
+        "type": "COUNTRY_DISTRICT"
+      },
+      {
+        "id": 73,
+        "name": "Дальний Восток",
+        "parentId": 225,
+        "childrenCount": 11,
+        "type": "COUNTRY_DISTRICT"
+      },
+      {
+        "id": 115092,
+        "name": "Крымский федеральный округ",
+        "parentId": 225,
+        "childrenCount": 1,
+        "type": "COUNTRY_DISTRICT"
+      },
+      {
+        "id": 381,
+        "name": "Прочее",
+        "parentId": 225,
+        "childrenCount": 0,
+        "type": "OTHER"
+      }
+    ]
+  }
+}
