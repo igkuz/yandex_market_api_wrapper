@@ -1,0 +1,920 @@
+{
+  "offers": {
+    "items": [
+      {
+        "id": "TBZ_K1zUZ-DWD8eJPaYMhQ",
+        "modelId": "8228926",
+        "name": "Холодильник Bosch KGS 39XL20",
+        "onStock": 0,
+        "url": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1lut4HEdww9NzlFwYE-Nq7Au-_WT8_gn8vdwuz_TEQ4D6go9Z8DTs3HgRnhYFt1oSfvugCi-dHz3NHMyLMdEsaT7cYl-6XJPlbyu0e-SFzA8RXBpIH5SKtLuC7gfkfDP3TeoxbHRjBqzCVNOYL87MZ7pcCwP3NaZvupuQP_LJytWBnpYtWEHjfATH3lMxpBmyj2E7y6BQW6UrnNbRIp4znsabdSvzw-HQng-1rR1YQx66nVb4hZ6CW8hqV3Y3Nt3UW0qwyOVMZ-NJ_610EtDCchfXuZSX9q82-y6cKZi7liObVeszd5hvlIV-tHevRs_jWWW3rvc6Fifxqv7oarUUwzz2g2Och0Bc7BHisjYr7t8K31ybSb5QMhfZ3WZkNQ3QHuIQ3vmOjUS?data=QVyKqSPyGQwwaFPWqjjgNlPlKz-1x7jbOuAx34CNktaX0v1LPt__5-1yOGVL_Mc1ud_H_y-ZC0ndAee5Q4fhrqWX9ZSIkrc-RwnCxjfmuO2ACebO2vP85F42DJYOxDwETD_oMYg_dXGWHJyzBOyWeLloAVyjLSGpsUdCHZd6aUvaYqyzjrmfeX-emyNy2aCyaJ5JYN3nTgeHKvuIV3eDTyE5SrTRfnN-4s5MllJEm_bmVKlDb7ABZvkAoUwUQy6UMDUtyMzW34Dl4uGSRiU1Z6qVhh-D6e9Rq_Pq-Hf80AU8IltYTXEKDFhK7c_mlJu92w6JJqrB2tLtJyQO9NleZqMwvWlXvSYVw5o138GfD_3YlHhCHOixbrcez3kDsFlCS_hGBqqrmDtr4RXze-u-u5-d8q4w4fgJccCqN6LyO7z6hlT6vbcQeJJTsl5IkGVG-qHdAWdJo0-lAuM4ndh0XDyg32ZZ4qj3NdtaP2rPsEZDfZygiCfF9rF5hDZ-lqTzwHDm51zZMrVB9ljbdMILvqywYpD5tjIQWZWDaIopOGsq6EO6puzJACAeYzAn4DrNWqlUAxGlAlA&b64e=2&sign=32c8fc4389313e78760910d79698d1c8&keyno=1",
+        "price": {
+          "value": "23246",
+          "currencyName": "руб.",
+          "currencyCode": "RUR"
+        },
+        "shopInfo": {
+          "id": 146484,
+          "name": "Терминал.ру",
+          "yamoney": 0,
+          "rating": 4,
+          "gradeTotal": 206
+        },
+        "phone": {
+          "number": "+7 (800) 5555450",
+          "sanitizedNumber": "+78005555450",
+          "call": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1jqDX5Q_A4Bwz9Sz2b7ffpW1XitgYwmLsrlkDuD5tl17AEima1r9R5ZwCy81pmvYW4OIJamURc7DlIhHPvcgSAkUqcZq2iuYrWy43JEA1KXDsggLSJIo192wwh1H6NEn_iSXAUz748SqKWvpW1CvBeXhYuDFMXK1hQr6a17jl6kH2OltI_hFsvwNTTRvs1DC7A3U4dW7uYJYtx2eTUX_zoL08-OcT09manopMMAqyC23nnj-Ar3AfFlRSJKhcxrgbiEErG6Vy0MH5EDXI5nT77GL9KAwrrZM-qNtpUOLIhLZLFNtNPrmxxJHw4aSRo4fmsOMaAFa6Mf_Z12cnEGR0bCCsHHVY9lWzzAxBUnzY3sqYHuTT_g7z91VbyGu4U3GGktn0Fk_vzRR?data=QVyKqSPyGQwwaFPWqjjgNs3E55X_dOEiRNqPeFaZwQCBp_TqieQ-Kbb5cXZ-k7YhxwgjlV_ILS1smCjiueJ_hGGLWqURNVykLjY7iwF4ZADHR6VhP1qNxuwxS1XL5Re-BNh1Wlvj8ZPTt8ROQtRFh0utZrvRJsbMaiSoa_YLXuwwu03EjT9zgm9j7GsV7BixtC0GZaO0ehgcMVLQMIrGLw&b64e=2&sign=24109913923c35a844a1c0253294940a&keyno=1"
+        },
+        "delivery": {
+          "price": {
+            "value": "350",
+            "currencyName": "руб.",
+            "currencyCode": "RUR"
+          },
+          "description": "Стоимость доставки по г. Самара  от 250 руб. (Крупная бытовая техника - от 350 руб).<br>Подъем - 50 руб. за этаж.",
+          "priorityRegion": 51,
+          "regionName": "Самара",
+          "userRegionName": "Самара",
+          "pickup": true,
+          "store": false,
+          "delivery": true,
+          "free": false,
+          "deliveryIncluded": false,
+          "downloadable": false,
+          "priority": true,
+          "methods": [
+            {
+              "serviceName": "Собственная служба доставки"
+            }
+          ],
+          "brief": "в г. Самара — 350 руб., возможен самовывоз",
+          "full": "Стоимость доставки по г. Самара  от 250 руб. (Крупная бытовая техника - от 350 руб).<br>Подъем - 50 руб. за этаж."
+        },
+        "photos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_styztN7qdmV0iRJ8CxlZIA_600x600.jpg",
+            "width": 361,
+            "height": 600
+          }
+        ],
+        "bigPhoto": {
+          "id": 0,
+          "url": "http://0.cs-ellpic.yandex.net/market_styztN7qdmV0iRJ8CxlZIA_600x600.jpg",
+          "width": 361,
+          "height": 600
+        },
+        "previewPhotos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_styztN7qdmV0iRJ8CxlZIA_190x250.jpg",
+            "width": 150,
+            "height": 250
+          }
+        ],
+        "outlet": {
+          "phone": {
+            "country": "7",
+            "city": "800",
+            "number": "555-5450"
+          },
+          "schedule": [
+            {
+              "workingDaysFrom": "1",
+              "workingDaysTill": "7",
+              "workingHoursFrom": "10:00",
+              "workingHoursTill": "21:00"
+            }
+          ],
+          "geo": {
+            "geoId": 51,
+            "longitude": "50.156383",
+            "latitude": "53.203058"
+          },
+          "pointId": "296107",
+          "pointName": "ТЦ Вертикаль",
+          "pointType": "MIXED",
+          "localityName": "Самара",
+          "thoroughfareName": "Московское ш",
+          "premiseNumber": "17",
+          "shopId": 146484
+        },
+        "warranty": 1,
+        "description": "Холодильник Bosch KGS 39XL20 оснащен двумя компрессорами, что способствует равномерному распределению холодного воздуха и независимому регулированию температурных режимов в каждой камере. Общий полезный объем холодильника составляет 352 л.   Холодильная камера объемом 257 л оборудована пятью полками, четыре из которых переставляются по высоте. Полки изготовлены из закаленного стекла и имеют прочную окантовку. Для хранения бутылок предусмотрен специальный подвес. Объем контейнера для хранения овощей, фрук..."
+      },
+      {
+        "id": "pkly_bgn_s0pMOj1DVNxHg",
+        "modelId": "8228926",
+        "name": "Холодильник Bosch Kgs 39XL20R",
+        "onStock": 0,
+        "url": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1lut4HEdww9NzlFwYE-Nq7Dz1imtlID_JJpPNTs5RqiPsgiz3Zqx14CDeay7AmYspI4byHQcXTfWmy3qRN0f-iRzv1gJEP7_PYDqMctas4MjLrOeGz5Y-RrmUEC1Hxy_tClvs_fDMkq0_9nR_bQON-ocmfDfBPWLZG57V9sJXWCTNOtIJ4M6aP---ekeQNUaSNjgVKWKsrU4CDgjl8sDiphonlVZKumYiZkufqcNWjcLU7fLRSHOhbH4bNsb10-rzJgHf4JuQOe2LCPUbr2rgEfWT0pliid2QTOKJlOVmDPi3XIOcLYFvy307FunxDp0QIRJV6fkk-qp2M8461MqqGRNke6kslnxy5_GJnSWaDTcwynFRhFANocSdftEqxI-Hwvrl3PbvWTt?data=QVyKqSPyGQwwaFPWqjjgNlPlKz-1x7jbQ9Ijhfaemlm5Jj413jG0m_DbO_fY61SoA7ECRoSsiZCrm8vL8Mri11zzk4zkbZ8XXGMx1X_oDd2Nvpz3ljIKGbZTUBXAML9gZ_7tDZOgpDQ5DkvHIXlZnYCpjeJctD281wE89iVevdBBjUjKGcm63dE1D4jh9pqYPZ45geY9AX-ZXOWCV4zeBeq1J_GHbBABiRwH41PlRsUxNo6dosGaxyTRROkhCw7PdxvHcQEJ6UQ5Ju7x_o4dz4U7NPZFg6pFS_6VFLUuMMFIhSzPbjOVgiqUJulNbtiK91nfzZlpC370D79n0kQwSkEaCfj8JYcLrW_h3W3-PEo6xx3KlVOmRd4q07d7gOR2J1Lh3CRPZ5c&b64e=2&sign=dab4aa87e1d410bb2e3a7139081cfbed&keyno=1",
+        "price": {
+          "value": "23819",
+          "currencyName": "руб.",
+          "currencyCode": "RUR"
+        },
+        "shopInfo": {
+          "id": 129918,
+          "name": "sam.tehnosila.ru",
+          "yamoney": 0,
+          "rating": 3,
+          "gradeTotal": 25
+        },
+        "phone": {
+          "number": "8 800 777 8 777",
+          "sanitizedNumber": "88007778777",
+          "call": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1jqDX5Q_A4Bwz9Sz2b7ffpV670HzBtNkdMHn6QrQUX2g-TCNHjhxxdGT4rddoCaZgamPYlK_Pw_N-QkOEApB1wMUvVyXRrE3Al2KH0rji057v2ODXEJDpM8GfdUIpXah572ut2rwWX_XZTTCMFFeIM38M-AIi8W63AOHXQutDTYMR6l2VrREtZf9vNXaDT1_xVUe30RpCHqQV-DHVhOadYysMZBfQhM00sOH-Ubvtsg7Hx0j7S9X8LBVWLrV9WuiI7WyhubtMoeetFts1xsdKD8II8HIh7_W-9hClOcoLHHglC2jYlpikY5eIxrVFGayofrrMhPtuP6FfCQnrgcrzQR4WbqnJdodwkososvQJyZNXPQh58Bp1iLJnbhq6ugI1wjQzjnMwDW0?data=QVyKqSPyGQwwaFPWqjjgNs3E55X_dOEiRNqPeFaZwQCBp_TqieQ-Kbb5cXZ-k7YhxwgjlV_ILS2hJ5kuinFK4f4Bfbd-87AjEAUJXsI4urJUTx5lwYNpkXqQbuCMr84mVvnBlUM2390piYb_MdRFnbuHZ3CnLcAXAZ8qt4G5MmVtkBvykJjehu6zBanE0V2ATrhkEqRmt1fc-SWr3VaCwQ&b64e=2&sign=692c528102e37ad28d8e0bfa27d4755a&keyno=1"
+        },
+        "delivery": {
+          "price": {
+            "value": "499",
+            "currencyName": "руб.",
+            "currencyCode": "RUR"
+          },
+          "description": "Область (от 1 до 20 км) – 550 руб.<br>Область (от 20 до 40 км) – 1 550 руб.<br>Область (от 40 до 90 км) – 2 750 руб.<br>Область (от 90 до 110 км) – 3 350 руб.<br>Область (от 110 до 135 км) – 4 050 руб.",
+          "priorityRegion": 51,
+          "regionName": "Самара",
+          "userRegionName": "Самара",
+          "pickup": true,
+          "store": false,
+          "delivery": true,
+          "free": false,
+          "deliveryIncluded": false,
+          "downloadable": false,
+          "priority": true,
+          "brief": "в г. Самара — 499 руб., возможен самовывоз",
+          "full": "Область (от 1 до 20 км) – 550 руб.<br>Область (от 20 до 40 км) – 1 550 руб.<br>Область (от 40 до 90 км) – 2 750 руб.<br>Область (от 90 до 110 км) – 3 350 руб.<br>Область (от 110 до 135 км) – 4 050 руб."
+        },
+        "photos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_Hn7sIhQCPpK0wWtf5mswyA_600x600.jpg",
+            "width": 211,
+            "height": 600
+          }
+        ],
+        "bigPhoto": {
+          "id": 0,
+          "url": "http://0.cs-ellpic.yandex.net/market_Hn7sIhQCPpK0wWtf5mswyA_600x600.jpg",
+          "width": 211,
+          "height": 600
+        },
+        "previewPhotos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_Hn7sIhQCPpK0wWtf5mswyA_190x250.jpg",
+            "width": 87,
+            "height": 250
+          }
+        ],
+        "outlet": {
+          "phone": {
+            "country": "8",
+            "city": "800",
+            "number": "777-8777"
+          },
+          "schedule": [
+            {
+              "workingDaysFrom": "1",
+              "workingDaysTill": "7",
+              "workingHoursFrom": "10:00",
+              "workingHoursTill": "22:00"
+            }
+          ],
+          "geo": {
+            "geoId": 51,
+            "longitude": "50.199529",
+            "latitude": "53.233435"
+          },
+          "pointId": "291035",
+          "pointName": "Техносила",
+          "pointType": "MIXED",
+          "localityName": "Самара",
+          "thoroughfareName": "Московское шоссе",
+          "premiseNumber": "81а",
+          "shopId": 129918
+        },
+        "warranty": 1,
+        "description": "Глубина - 65, см, Ширина - 60, см, Высота - 200, см, Тип холодильника - двухкамерный, Климатический класс - SN-T, Автономноe cохрaнeниe холодa - 22 ч, Полезный объем морозильной камеры - 95 л, Количество компрессоров - 2 компр., Энергопотребление в год - 307 кВт, Материал полок - стекло, Система разморозки (хол) - капельная, Срок гарантии - 12 месяцев, Цвет - серебристый, Общий полезный объем - 352 л, Габариты (ВхШхГ) - 200х60х65 см, Система разморозки (мор) - ручная, Тип управления - электронный,..."
+      },
+      {
+        "id": "4a0ikIJYK7-wUFW6jISw6Q",
+        "modelId": "8228926",
+        "name": "Холодильник с морозильником Bosch KGS39XL20R",
+        "onStock": 1,
+        "url": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1lut4HEdww9NzlFwYE-Nq7BzVPAc17na5-vfWghvOSX0LMEd0Vy5YOk964pJ4twgy-NS_ZwWh0zADIiYoNzOZqulS1PfTeR5CCVjVcIewxH8G_vhYGV8kq6EbvArq32yf-BJywhsLEKdRZbZV7RwrKYTH5pDzlAVaIfS53OVWJ8UdPcL_8tWfrSPZsGZxvMds95ILIwl8glU3ZHqFmdFlONQ13sz78sgDu0jZXLr5FpyPPbF5KxncV3q5XFoKKtAWDXUURIPCdHaMSaorSBP-XSlsbczjAA-fNntwNS-T4A7KkIVWrpwY4u6fvxAaGKcZja-D3FAuOzuc66pU-DPmO2brfAZKXg342anY3_pYXkgTS-P1mOu-XOSms5z1t8k5UnTVwskhm8w?data=QVyKqSPyGQwwaFPWqjjgNn3KV6Zh3ba2R-2x6Q9HQH4_SSpOal4JzBE_sMCvQmhlQ2lRfMtNXfOZBH-sgtuA3gWRdLV5xESj9tbDQJXwlxsEQ_Ma6-yroHHij7ljAGc7owLL8gT-WRyRTNCHgzyIFLvY_wF_Ed7nunraIRDN5bVzSrCfkHqp03hTzgfzFZ1VbBiM9NkbwZ5pjOa6Ah5h8Eyt7Zwer82EmdctUYdp4OykRdlkWcGq1Zcs1z2_myyzdEbkzT7j-iH6OLWJrWlEsCAsjl6BLBkVlDD1RYLiU2s&b64e=2&sign=579da7ace59f7b6e5bd1b99baccaf912&keyno=1",
+        "price": {
+          "value": "23190",
+          "currencyName": "руб.",
+          "currencyCode": "RUR"
+        },
+        "shopInfo": {
+          "id": 162331,
+          "name": "E96.ru",
+          "yamoney": 0,
+          "rating": 5,
+          "gradeTotal": 697
+        },
+        "phone": {
+          "number": "8 804 333-07-96",
+          "sanitizedNumber": "88043330796",
+          "call": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1jqDX5Q_A4Bwz9Sz2b7ffpXKDLkL1WWGJ7YO3y-FHEgetrMahEabJB6ePKKJ-lTkxYW2GXgb2rSWGY74tGDjId1AB_1Cjuo8VnRDBjL4Hob93h_0EHUSjoASRMVlZZjGnxe4vNCDnqVGwyf9yayhpLUgBPK62Ezq37jGEti0lA9nUVYJ1uYWZTNs6YKC-MH6OmY5BlpX1aI1Dgy_sPLnCtzqR0XxxraMl4_4cMP1fhkLrWNMYfJSZssgkz_kuYlI3yxREL8iIOhXv4kUJ5Lar_FhoT9SqIa9ZfBnCstm0BVjse1KjNgO5piT-9T_gizlmmeofcLwje0CQmPU-Q3Vj83kOFcfkNqAC6xLiyw9-mStmsR4A6ZrxQtV_rfZ3eDLsVtlqZbExYOg?data=QVyKqSPyGQwwaFPWqjjgNs3E55X_dOEiRNqPeFaZwQCBp_TqieQ-Kbb5cXZ-k7YhxwgjlV_ILS37sJG9vxwMMZ5R9waNAOiYtD6FbvMwgOneRRgYteTqdwyd-jB2MLzkQWFym1OqZB3-ENm9tuLjtXML0zMqMsLzDwyrob7TkAEsd1_yvpnBmO3_ZOKegV3xlC_3Wyhw_J_j8Q79GgWHtw&b64e=2&sign=c05f9a6f379c023c2fa18792424cd891&keyno=1"
+        },
+        "delivery": {
+          "description": "Ручной подъем крупногабаритной техники - платно, 50-120р. за этаж.",
+          "priorityRegion": 51,
+          "regionName": "Самара",
+          "userRegionName": "Самара",
+          "pickup": true,
+          "store": false,
+          "delivery": true,
+          "free": true,
+          "deliveryIncluded": false,
+          "downloadable": false,
+          "priority": true,
+          "methods": [
+            {
+              "serviceName": "Собственная служба доставки"
+            }
+          ],
+          "brief": "в г. Самара — бесплатно, возможен самовывоз",
+          "full": "Ручной подъем крупногабаритной техники - платно, 50-120р. за этаж."
+        },
+        "photos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_D5umDmjanVwwEYo8P9jSAA_300x400.jpg",
+            "width": 188,
+            "height": 400
+          }
+        ],
+        "bigPhoto": {
+          "id": 0,
+          "url": "http://0.cs-ellpic.yandex.net/market_D5umDmjanVwwEYo8P9jSAA_300x400.jpg",
+          "width": 188,
+          "height": 400
+        },
+        "previewPhotos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_D5umDmjanVwwEYo8P9jSAA_190x250.jpg",
+            "width": 117,
+            "height": 250
+          }
+        ],
+        "outlet": {
+          "phone": {
+            "country": "7",
+            "city": "846",
+            "number": "977-0708"
+          },
+          "schedule": [
+            {
+              "workingDaysFrom": "1",
+              "workingDaysTill": "5",
+              "workingHoursFrom": "9:00",
+              "workingHoursTill": "18:00"
+            }
+          ],
+          "geo": {
+            "geoId": 51,
+            "longitude": "50.197714",
+            "latitude": "53.178309"
+          },
+          "pointId": "305175",
+          "pointName": "E96.ru",
+          "pointType": "DEPOT",
+          "localityName": "Самара",
+          "thoroughfareName": "ул. Южный проезд",
+          "premiseNumber": "102",
+          "shopId": 162331
+        },
+        "warranty": 1,
+        "description": "Высота: 200 см; Тип: Холодильник с морозильником; Расположение морозильной камеры: снизу; Цвет: серебристый; Количество камер: 2; Ширина: 60 см; Возможность перевешивания двери"
+      },
+      {
+        "id": "qIRCiEUcIBJWXKE3RVdY7w",
+        "modelId": "8228926",
+        "name": "двухкамерный холодильник Bosch KGS39XL20",
+        "onStock": 1,
+        "url": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1lut4HEdww9NzlFwYE-Nq7BPXV-_hNO4YCJOwOw9W-MsVwZMriSf9hJKHvNP_5jkr_5aGFKBvzg3oOAqkFVEO5PX0-p0pZgUfbw7K94dQ-Sqg0bV8v-2bUz4nmabe9nut4klf1PZl_3PEBrNEngQlQgy9mpo6xO2I43zIbizqnDslKCweHK1YomfxcZQvIjhj4gW8-IhyQVTVlgK10ooxtbomnCUj251q6JYJwY9mhds2Ic_y4_K3LQA7fnVVN7pAcU_KCzitAfChJUwf6_Q0kBWBytCro0I4-NYN4_kJrTlLzC6yqxBUuhF3RXViRlUNS0tsCVwQtR1QZIVy4LvK4cVPfnotJs8wDn23VJ1tCP1eD7J_GOOnvWIpiHAMOovfoJZp_zQ9S7p?data=QVyKqSPyGQwwaFPWqjjgNsrAvyLpmEUVBqABfGfL4lItZMGtf0h1lb2hrZAI8OvK9rfgKi0WbSE45yqBQPoQQTZt8WdkUGnDfBFb6RThwk_rEhFx6XlkFr3lrTNrj5zECmkRhfmiUw34HZBHnMFg_xg0PJljtV7k-tm1Z2J9IzY8tHnWI61f4NHBgZsGytdFj_kqVQ6r5jGQ0HytOyVv3jv2-PiYfgZ9OeayE-agAujiLWfm_beFoEieoXOz3AkDhbWHHWae1FdkJmNwovT8VC9WukM64wROzzHlbTVzm7tUzcl6tTdVUOSLvYDXgVN5whiwFuZ8D8n-IMv44MZSJTdPYdIwIoEAtP5Ey4jkNywvX7OSwGJWe7aJUAjSXv2BsJFN-aMmO5q_GR_jldO_uay1KTj7XEudHNFsUmo4ftYUxAX7Eemq_ar9G21F3N1hBHq6wkY1aa09P3Y3MblNu_kS4jWX4TSlfXbYwS-_pn6_VZQogRs7mJDC3vZmiwYjG6-hEUjQkgtDk2_4VLqZCP3sllJ0ouRFVXwf6bkrUbw&b64e=2&sign=cca8d0af21ef40a01568094c2ab61dd9&keyno=1",
+        "price": {
+          "value": "23434",
+          "currencyName": "руб.",
+          "currencyCode": "RUR"
+        },
+        "shopInfo": {
+          "id": 172676,
+          "name": "003.ru",
+          "yamoney": 0,
+          "rating": -1,
+          "gradeTotal": 1
+        },
+        "phone": {
+          "number": "+7 (846) 37-92-003",
+          "sanitizedNumber": "+78463792003",
+          "call": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1jqDX5Q_A4Bwz9Sz2b7ffpUGNZFA7anUq3AJCzIC_kC2tNIYKQ4p3Fdpp03qbafAy71k5Fs5MV4HKv2cQCNNb9130wu77gAygVJmwaBqKdbNFjIk-nqwQmcBRuLowEbYp60SPm7yFTD1s4mrMj6Npl6vvNqpPT93H5XqDlXXCeJZI6WHqjCb2rxJrYmJldmhakM6tj1nXWqODNcXqt1DnL5Yoo2HG9Sh-v46oLyegNEY4WT96Cy4b8Tk_86qsYj6URQPpR3ElZuuBQfos-3BauyhvnuIQYUd39FwjCs4RQS7ZSlQWZhSUDVHIMZ7s9rXoEc-Eoyu2zhNH_9SvFqgspXkfIwAMu3gQPXmcDWBe6r-zf67Jr0LIr3g5QrGUhEoWKUTZfcpZpMm?data=QVyKqSPyGQwwaFPWqjjgNs3E55X_dOEiRNqPeFaZwQCBp_TqieQ-Kbb5cXZ-k7YhxwgjlV_ILS1zND79LQteM4ek5-ZD_ChuoCMVlB9_yKcCE2J7KK8Qj4RcI2abUkQuVuf56VfzwtVy4ZMZn2f1l-oHh8ZogXMI9jmtkjdY8cKP0tGZWa1yi5s5DlWvYcnNGlyOXyY9GC2pvzj4E20BTQ&b64e=2&sign=f2cbd7719e549bb53f4013b197e93143&keyno=1"
+        },
+        "delivery": {
+          "priorityRegion": 51,
+          "regionName": "Самара",
+          "userRegionName": "Самара",
+          "pickup": true,
+          "store": false,
+          "delivery": false,
+          "free": false,
+          "deliveryIncluded": false,
+          "downloadable": false,
+          "priority": false,
+          "brief": "не производится (самовывоз)",
+          "full": ""
+        },
+        "photos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_hzFCC2ModkRfvRqa-xIC1A_300x300.jpg",
+            "width": 300,
+            "height": 225
+          }
+        ],
+        "bigPhoto": {
+          "id": 0,
+          "url": "http://0.cs-ellpic.yandex.net/market_hzFCC2ModkRfvRqa-xIC1A_300x300.jpg",
+          "width": 300,
+          "height": 225
+        },
+        "previewPhotos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_hzFCC2ModkRfvRqa-xIC1A_190x250.jpg",
+            "width": 190,
+            "height": 142
+          }
+        ],
+        "outlet": {
+          "phone": {
+            "country": "7",
+            "city": "800",
+            "number": "555-4585"
+          },
+          "schedule": [
+            {
+              "workingDaysFrom": "1",
+              "workingDaysTill": "5",
+              "workingHoursFrom": "9:00",
+              "workingHoursTill": "18:00"
+            },
+            {
+              "workingDaysFrom": "6",
+              "workingDaysTill": "6",
+              "workingHoursFrom": "9:00",
+              "workingHoursTill": "11:00"
+            }
+          ],
+          "geo": {
+            "geoId": 51,
+            "longitude": "50.274314",
+            "latitude": "53.277260"
+          },
+          "pointId": "322930",
+          "pointName": "Точка самовывоза в г.Самара (партнёрский пункт выдачи DPD)",
+          "pointType": "DEPOT",
+          "localityName": "Самара",
+          "thoroughfareName": "ш. Московское",
+          "premiseNumber": "27",
+          "shopId": 172676,
+          "building": "г"
+        },
+        "warranty": 1,
+        "description": "Отдохните. Насладитесь жизнью. А вместо вас поработают бытовые приборы Bosch. Ведь в них вложен более чем 100-летний опыт исследований и разработок - достаточно времени, чтобы перфекционировать технику до последней детали.Бытовая техника Bosch ориентируется на потребности и пожелания людей и предлагает наиболее разумные решения. Разработано для жизни"
+      },
+      {
+        "id": "-ctnGkZkOPSHUfrEBUqr7g",
+        "modelId": "8228926",
+        "name": "Холодильник BOSCH KGS39XL20R, двухкамерный, серебристый",
+        "onStock": 1,
+        "url": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1lut4HEdww9NzlFwYE-Nq7DzHC07Rg3_PnBV5x3dhLIOZ7LZKYF8F8RBqDSxagLMb9DhYRaWV5X3TBh5kauXahuKkGj6n35Qia_w_YphYXxyKloyVoUWwq4TR4epZ1R1aVfkezkEwDOEaQ-64wWVw9pnQcNfBFyJXWocABZ3xQnWykuUAC4hKqtYrzA0_DhO1dTaG4MRQwO9IovZ2gAfriobWkCUBdq9zyEReLUcTRGkTpb_NE65q1g7Z1shUamkBdd4mDcZoZvsK-udRlSCZNZ1Mk1MIQGkg671PpW9jByeOe-JxQrCYqbV8ETXAeZ9v9x8HqoQuFsnW5uV2YbxcnuPOSafWzzcXzf3skwvTtjiaT4-AaByGyRcugeQOkle2CQ8Yt3psCIy?data=QVyKqSPyGQwwaFPWqjjgNhPWaEtGzazu4iI6EHdiagbsTBZp8MgmD6_1eyGqYWLd5IhNQAGAmQ0zxcMT9Jvsg6r_rDWJEiJDUjtYUkLZ5gPfAzCe_JGHDqWH3e37Ykx7D6gqUZGGweLXvbQkaMhprH_mNcQLrKELzS6d0ziP3lvPzS2qrDsEJnWiwctIzYUWPMvDX2oV9iCLDAG6aV08uKgWpWzgl4aba70jg-Ql7Xt1U_tzVtXXXwirsu-h7RGVsvviPcTfSpvE7WrLjasKU3m52WIh4kGCn2Dri-NEVFp4IUJLrgFnIg&b64e=2&sign=ce3eb8f2ecd129e3afcb7f7fc0e8c1cd&keyno=1",
+        "price": {
+          "value": "25290",
+          "currencyName": "руб.",
+          "currencyCode": "RUR"
+        },
+        "shopInfo": {
+          "id": 76320,
+          "name": "Ситилинк",
+          "yamoney": 1,
+          "rating": 4,
+          "gradeTotal": 2028
+        },
+        "phone": {
+          "number": "+7 (846) 205 71 71",
+          "sanitizedNumber": "+78462057171",
+          "call": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1jqDX5Q_A4Bwz9Sz2b7ffpVyM3ezV0kG-AxUd1dZ046pYIENdq67TRTPQdbJF0VF2KlWFd-uEwADFFsMn3hKSWSHqvCbR321vfYV1deZ2JwkMbnOdhgmDRuP5glrU_gdDeRJ4dJ6SjDrnfK-eodn2By_kA4x38XZMGx9Aa6iEAg3Gcl2eej5LMWqiK61VnSkqjPHMCZtFIkUUxGH-6NTLjb6flWVgloESRLf7oQcQOrzB-Qc-3rmpTiAD57CeW2hMryRmpxaaFNamWZVGkzN4IXIwcH-Glk9AOitcPqOMJ02eeLsOmJZ-F0-AekwPULJYPJJtc2XIVtPlKaP_GJMCbe7nMA2RzA4Q0-hoN4NaMbmWCNctdNw340RzjteJ5bI3dxFb_NZEqt2?data=QVyKqSPyGQwwaFPWqjjgNs3E55X_dOEiRNqPeFaZwQCBp_TqieQ-Kbb5cXZ-k7YhxwgjlV_ILS3h0gEazZOwsakc_wFD33ZALa1yb0foGGIOAtgOx0S0tJ2zRVdVXHY43YGJZuDoE3dmigl9fO1oz6ESQDXut74ermu6UjA9qSP-Q7qAke0W_SYyZylDgrxnIKK8F2Yy7LxcYC9myTm94g&b64e=2&sign=c8ec4f2128216bcd3b07161bf2cff9d4&keyno=1"
+        },
+        "delivery": {
+          "price": {
+            "value": "320",
+            "currencyName": "руб.",
+            "currencyCode": "RUR"
+          },
+          "description": "В пределах Самары 200 рублей<br>До 20 км от Самары 280 рублей<br><br>Для крупногабаритных заказов:<br><br>В пределах Самары  270 рублей<br>До 20 км от Самары 360 рублей",
+          "priorityRegion": 51,
+          "regionName": "Самара",
+          "userRegionName": "Самара",
+          "pickup": true,
+          "store": true,
+          "delivery": true,
+          "free": false,
+          "deliveryIncluded": false,
+          "downloadable": false,
+          "priority": true,
+          "methods": [
+            {
+              "serviceName": "Собственная служба доставки"
+            }
+          ],
+          "brief": "в г. Самара — 320 руб., возможен самовывоз",
+          "full": "В пределах Самары 200 рублей<br>До 20 км от Самары 280 рублей<br><br>Для крупногабаритных заказов:<br><br>В пределах Самары  270 рублей<br>До 20 км от Самары 360 рублей"
+        },
+        "photos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_wZ2qCjHk_T0Go2d2AHqekA_100x100.jpg",
+            "width": 47,
+            "height": 100
+          }
+        ],
+        "bigPhoto": {
+          "id": 0,
+          "url": "http://0.cs-ellpic.yandex.net/market_wZ2qCjHk_T0Go2d2AHqekA_100x100.jpg",
+          "width": 47,
+          "height": 100
+        },
+        "previewPhotos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_wZ2qCjHk_T0Go2d2AHqekA_74x100.jpg",
+            "width": 47,
+            "height": 100
+          }
+        ],
+        "outlet": {
+          "phone": {
+            "country": "7",
+            "city": "846",
+            "number": "205-7171"
+          },
+          "schedule": [
+            {
+              "workingDaysFrom": "1",
+              "workingDaysTill": "7",
+              "workingHoursFrom": "9:00",
+              "workingHoursTill": "21:00"
+            }
+          ],
+          "geo": {
+            "geoId": 51,
+            "longitude": "50.217235",
+            "latitude": "53.246089"
+          },
+          "pointId": "251592",
+          "pointName": "Ситилинк ТРЦ «Империя»",
+          "pointType": "MIXED",
+          "localityName": "Самара",
+          "thoroughfareName": "Московское шоссе",
+          "premiseNumber": "163",
+          "shopId": 76320,
+          "building": "А"
+        },
+        "warranty": 1,
+        "description": "расположение морозильной камеры- снизу, размораживание морозильной камеры- ручное, размораживание холодильной камеры- капельное"
+      },
+      {
+        "id": "6hPbGt48JKiNKDeqZEjtBQ",
+        "modelId": "8228926",
+        "name": "BOSCH KGS39XL20R",
+        "onStock": 1,
+        "url": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1lut4HEdww9NzlFwYE-Nq7D_aZr-7U56sLefFxtpZgyuYTeYhj9GQrweEBthFBxkDE2HSuMJFsw6wekDNr6wb0UaQYg1IJ57rghCS8zpgZkXddLA2dnOOmdpmZsXop-NB5rrhf4rB9x-55ppCCHEN05ZmPzfmj2KhZaRD3q4khjfGfmN60WxEAfjRWt6-9LWcavwm_pnd0EMdAWQ_VRpXkL_IZlvzTB0utdDAM0mIMhUfcClUwbLAAMYUIHTWU4dJQcVby3QbcTdzF-Dn7Hj2F6iSYXblkiHksX4wUmo7piQjRvm5hsHv3I0iVcjCEzOvACjK5DeT06wnP82KO2Ek5CzP3e7hfKc8GsQjp_7PLqGp7apcw0F4aw7DUuYGivZC6BF3XurjVBQ?data=QVyKqSPyGQwwaFPWqjjgNsIyTagpdtiTxCv4YF-KDqK75ej-khM_wD1snI4BOn6zU0IYf4tXGcXxDgeS4ArKxV1IkA8VrWFuglaBi9UsY-JtrBAl404BjKx_iKgzlrG8D7sSDr5RlBfxyJzuGyKR7hMyn-4YAxZceFf4KFrQMR3OPIUvJMOwROPIoferzaBCdHCx_gJhSz77kKrktV48Q0CPBC3cccg8F0AXiexOpcA&b64e=2&sign=903faafa64095d45961bb303ea239a39&keyno=1",
+        "price": {
+          "value": "23640",
+          "currencyName": "руб.",
+          "currencyCode": "RUR"
+        },
+        "shopInfo": {
+          "id": 219231,
+          "name": "Samateh.com",
+          "yamoney": 0,
+          "rating": 4,
+          "gradeTotal": 12
+        },
+        "phone": {
+          "number": "8 (846) 922-97-07",
+          "sanitizedNumber": "88469229707",
+          "call": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1jqDX5Q_A4Bwz9Sz2b7ffpUDUL-asrEVZ5QaWbpOHCNE4Tl5dXxgiXutDCgR1H4L-nDa85X-H-sep6di5UvmoSkvtFlr59v12wr3R21EbgeOnyG-8NoWn9Q5NXcNqaJgeckudP27DQwYpdr8MaImnP_o1wWJeZiOArn4ZTxSogQecHh-RGeUIp3JQHrbJNoy_9TQV8dMLxUSnhEx9e7Gm0yJZslO7eBYdZ8ganMSsMu5sjhbuKUm4g_l2bJgJnyoGrCDA4B2e8aWEOio_eCRPCq2nSiOfvCNrtwMX4nHGjGezLWWE1qZN5gjIpfCwTAlSJqahS2fhuuhj2iS7SJWEiQ-r8NJJ2blhh30683GIAOovOEycsrn7GtZqtFDID4JA_tGrO1olXLu?data=QVyKqSPyGQwwaFPWqjjgNs3E55X_dOEiRNqPeFaZwQCBp_TqieQ-Kbb5cXZ-k7YhxwgjlV_ILS1UDLesTNhkrB2Ows7zMs87-bQzNTRTZMfMr1GEqnAt_l23a0AhvtZLt_ySAHghVkH_npA7dsIWh_TChs9MAdWZn8ZlMHGaF-jFvIYiyfQvTisKNJd8e5Lk8u7WPfsK5qRl4k8cnwLK2w&b64e=2&sign=f69d993a838ef70cdb607b372858088c&keyno=1"
+        },
+        "delivery": {
+          "price": {
+            "value": "400",
+            "currencyName": "руб.",
+            "currencyCode": "RUR"
+          },
+          "description": "Доставка до \"подъезда\" по Самаре 400 рублей  в черте города. Подъем на этаж обговаривается с оператором. Доставка в  Куйбышевский,  Красноглинский, Волжский районы обсуждается индивидуально.",
+          "priorityRegion": 51,
+          "regionName": "Самара",
+          "userRegionName": "Самара",
+          "pickup": true,
+          "store": false,
+          "delivery": true,
+          "free": false,
+          "deliveryIncluded": false,
+          "downloadable": false,
+          "priority": true,
+          "brief": "в г. Самара — 400 руб., возможен самовывоз",
+          "full": "Доставка до \"подъезда\" по Самаре 400 рублей  в черте города. Подъем на этаж обговаривается с оператором. Доставка в  Куйбышевский,  Красноглинский, Волжский районы обсуждается индивидуально."
+        },
+        "previewPhotos": [],
+        "outlet": {
+          "phone": {
+            "country": "8",
+            "city": "846",
+            "number": "922-9707"
+          },
+          "schedule": [
+            {
+              "workingDaysFrom": "1",
+              "workingDaysTill": "7",
+              "workingHoursFrom": "8:00",
+              "workingHoursTill": "18:00"
+            }
+          ],
+          "geo": {
+            "geoId": 51,
+            "longitude": "50.225988216698",
+            "latitude": "53.203475178479"
+          },
+          "pointId": "338026",
+          "pointName": "OOO \"Интеркомсервис\" магазин Саматех",
+          "pointType": "DEPOT",
+          "localityName": "Самара",
+          "thoroughfareName": "Победы",
+          "premiseNumber": "4",
+          "shopId": 219231,
+          "building": "а"
+        },
+        "warranty": 0
+      },
+      {
+        "id": "WqTJD-C83NcCNVPACdubvQ",
+        "modelId": "8228926",
+        "name": "Холодильник Bosch KGS 39Xl20 R",
+        "onStock": 1,
+        "url": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1lut4HEdww9NzlFwYE-Nq7Czg8clk5GxXPuO7ZYs3TptcM8wYpxvMx2_VscDJNuY7N_EzVs6KCJ3Wewylf1R9aROZLoLrpXR_u3eI4We6WXJ1db8hOO0xeHF0TxVDBEMzJDliPT8UVyUvV--7FpmI_QnVsF06aD_zhRSNsA2TVj86wQmvVw3BmL6m8bOJ6pCQ_kAkonXh8IZxQ8omYikvwfHCHRtDMjBQKhDlMvt-KhXKquIv6lK_bXoUnfmqvqj22Ehf6PG9HFYRfGKZccmP18B_O3q69zZERU_DyXfINI1hLoC-Q-n9V4et7JeBH2xpMZKlJc17kUGESVhOzLiu5gsuR8FNrdnW3f87BEXDhD8mxZFAmSda_8AkBxBjfVXlDYc5l71f74z?data=QVyKqSPyGQwwaFPWqjjgNr4L21EZHAMKVDfaPEQuxsz_Y_7N0E64z8D8dWI6wyK-Fy6nPcW-fXQUaNggqAsiwH7ikR2tPcSlBRyMdbEVJV5Z1AOrNnllIcefQvev4Qt5O8xLmiXlgDrsddJ86z5mP_zwNjEmyXRnSJeiFzxVAU0tydJOXM2al8D6O_KPRhbsFDEdGijs3RucrjmdTlijUo_wQN4YKSdaHb9DGveLhfhnklzTzc--hGy_1BzqQF4NngaO48cTs7A&b64e=2&sign=fc6fc175c98db71f3baaed601401a5d3&keyno=1",
+        "price": {
+          "value": "24100",
+          "currencyName": "руб.",
+          "currencyCode": "RUR"
+        },
+        "shopInfo": {
+          "id": 79053,
+          "name": "БериПлати",
+          "yamoney": 0,
+          "rating": 3,
+          "gradeTotal": 8
+        },
+        "phone": {
+          "number": "+7 (846) 275-06-44",
+          "sanitizedNumber": "+78462750644",
+          "call": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1jqDX5Q_A4Bwz9Sz2b7ffpXy-kjd6QaIzXDVZ30nvKtetsWqS_sHfAktXSV-XQu3zRWYckIjC_jR7Bn-Ko6ScFE-7tL6W17MA17aU3XTrKOFbT-BhzPdfjEPVzXbF4Aifzcyx31EO3STlXWv-CvwwEKY0yIlFFJ0MgMo8Uuby-SUoeda153fNWSYYdmvxsMrmDtMX1MkGDLznd4d4dT0fFjeEXHMaC5Ov8VJn0ZBakZvDhzuwYqUORorGJTjzoIrXanWAfTiS2u5Rf1YwLeU3YrUST6ggOq7-yAipT3kVD7O-MWGOalPqQxQPIjJVVh2o7l_DOF6M3P_Lcki5j_c-xu8yiOUkwoEJHTbsxMAngYGu3Iq5D4Jau_JHeO1SCdp_9_Hf7pfsJQ9?data=QVyKqSPyGQwwaFPWqjjgNs3E55X_dOEiRNqPeFaZwQCBp_TqieQ-Kbb5cXZ-k7YhxwgjlV_ILS2HKiDrzwsc2FZ-Sm6tZlk64NsJ9CoFbP9aeSrMLxxYU5Pb0LH-nT33k6i-CRmTvqKPnfeFd_7kKMGWRjj16vOzG9k5z6dK2Mb9vFkP3e5uLLBwSDhEcO1e0GU0ruyUvBI0gley4jkfXw&b64e=2&sign=678144dfeaf74e14cb5a6da046a95cb9&keyno=1"
+        },
+        "delivery": {
+          "price": {
+            "value": "200",
+            "currencyName": "руб.",
+            "currencyCode": "RUR"
+          },
+          "description": "- 200 руб. в черте города Самара.<br>- удаленные районы 400 руб.<br>-доставка по области 10 руб за 1 км в обе стороны.",
+          "priorityRegion": 51,
+          "regionName": "Самара",
+          "userRegionName": "Самара",
+          "pickup": true,
+          "store": false,
+          "delivery": true,
+          "free": false,
+          "deliveryIncluded": false,
+          "downloadable": false,
+          "priority": true,
+          "methods": [
+            {
+              "serviceName": "Деловые Линии"
+            }
+          ],
+          "brief": "в г. Самара — 200 руб., возможен самовывоз",
+          "full": "- 200 руб. в черте города Самара.<br>- удаленные районы 400 руб.<br>-доставка по области 10 руб за 1 км в обе стороны."
+        },
+        "photos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_qhpWyL54mzGKP9lPesCsCw_300x400.jpg",
+            "width": 188,
+            "height": 400
+          }
+        ],
+        "bigPhoto": {
+          "id": 0,
+          "url": "http://0.cs-ellpic.yandex.net/market_qhpWyL54mzGKP9lPesCsCw_300x400.jpg",
+          "width": 188,
+          "height": 400
+        },
+        "previewPhotos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_qhpWyL54mzGKP9lPesCsCw_190x250.jpg",
+            "width": 117,
+            "height": 250
+          }
+        ],
+        "outlet": {
+          "phone": {
+            "country": "7",
+            "city": "846",
+            "number": "275-0644"
+          },
+          "schedule": [
+            {
+              "workingDaysFrom": "1",
+              "workingDaysTill": "5",
+              "workingHoursFrom": "9:00",
+              "workingHoursTill": "18:00"
+            }
+          ],
+          "geo": {
+            "geoId": 51,
+            "longitude": "50.133036",
+            "latitude": "53.185961"
+          },
+          "pointId": "310137",
+          "pointName": "Урицкая",
+          "pointType": "DEPOT",
+          "localityName": "Самара",
+          "thoroughfareName": "Мечникова",
+          "premiseNumber": "1",
+          "shopId": 79053
+        },
+        "warranty": 0
+      },
+      {
+        "id": "eb9A89SFDhEnlariN_-ZGA",
+        "modelId": "8228926",
+        "name": "Холодильник BOSCH KGS39XL20R",
+        "onStock": 0,
+        "url": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1lut4HEdww9NzlFwYE-Nq7CuynwynFkq1av4-XUYdCuYr5Ly0ctX0DLisWXMHArgvGKg0bbLMx4pad5c0Do34iuq87xmqpjr6ZgKOhwLBq6XiyrBl12zI8EvdwtKmCrVxBEhDw8SVBuFQJ1oMVjZqsA6-fDjyU4QGik8nawBT0Baa6dXr0cKLbnJZ1RZkS1aA3qsAENCjtgE1TReONi1jjuOcM6YLTHKhHQVOf1q641tHPkJ1foVjOGaHDAKqANxBUJgtKymPlyfHL8nhfZVH7xsJ0TjhEGNlJkjpWfy2-jWUYIpmMfMILibT9H191Gci0xq3yA2rbxYulQZfJjqB-uXENDsyl4__GsKiVaYsfeyHJDv2zQE1vah1o6Y2lC7OjhmgAYtb83o?data=QVyKqSPyGQwwaFPWqjjgNi4ErQ64fsJoD8yCrrLx-IuIeOfc0n-sYOgrPEYfjVKbSjxiuGTK2sUac6HAqpYCOx6yGiyBSJHgbzV4eBvHncKeIJmGg2QjTurpl2DfsNDQQ17UNEwUd2bJZMSeii5kJQ8Fl_5VM081gC8I_t7O1TK6TqWua7SlUg&b64e=2&sign=ac95ac3872f2f5c121a075b3ef246a5f&keyno=1",
+        "price": {
+          "value": "24935.04",
+          "currencyName": "руб.",
+          "currencyCode": "RUR"
+        },
+        "shopInfo": {
+          "id": 87883,
+          "name": "Техносклад",
+          "yamoney": 0,
+          "rating": 4,
+          "gradeTotal": 0
+        },
+        "phone": {
+          "number": "+7 (846) 2314363",
+          "sanitizedNumber": "+78462314363",
+          "call": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1jqDX5Q_A4Bwz9Sz2b7ffpVtF3F2Bl788QELfqlaMGT85qb2d33rgKtoJiZhNa0oMfiShtpnde6vJzNsmzau8sLhJOv23qXV0pKFMPHJOIpZkNGHwQCz5GL-DqLzg6z2JXje1Wp2sVJb94P7oZAdt7ltOjeojJEWRwJfvxgeZ-Ovtx97orqPbFbi78pCRNUt_tfH4ZCauxJNd2QUbE2AeKLTChrCO7vronUhU1G29XUDAn1b4pzkd8miKYG_k3VZALgPSZwkC6fr8ab8su7l5lH8EjocHxQH1n2dYs-edTlH_UzU929FnlJmTPfsxXIr8IV7QqyAF3YIKTpLt1Q6vuvPK5muqERaWjnUvtHTTpQpGPZwePqazfMUqnyTcPsRR2895PlgDSqC?data=QVyKqSPyGQwwaFPWqjjgNs3E55X_dOEiRNqPeFaZwQCBp_TqieQ-Kbb5cXZ-k7YhxwgjlV_ILS3sT10sixMejDL7jvXeE72dTsh_SZJXeWCnIj992bB9AX1C0tTWGRJiVzGdhJZl2JV-DkVux1QBUmJcW1Us3FLCtILEXUM2kIZgBBikVemqQMRJBPirIJ1y34xnHC9YTNv1ZScvx1_xtg&b64e=2&sign=b2151017019ca376a03df35bfa1b224d&keyno=1"
+        },
+        "delivery": {
+          "description": "- доставка по городу до подъезда - бесплатно. <br>- доставка в районы Куйбышевский, Самарский, Красноглинский - 200 рублей.<br>доставка осуществляется до подъезда.<br><br>Подъем до квартиры: + 100 рублей/этаж",
+          "priorityRegion": 51,
+          "regionName": "Самара",
+          "userRegionName": "Самара",
+          "pickup": true,
+          "store": false,
+          "delivery": true,
+          "free": true,
+          "deliveryIncluded": false,
+          "downloadable": false,
+          "priority": true,
+          "methods": [
+            {
+              "serviceName": "Автотрейдинг"
+            },
+            {
+              "serviceName": "Деловые Линии"
+            }
+          ],
+          "brief": "в г. Самара — бесплатно, возможен самовывоз",
+          "full": "- доставка по городу до подъезда - бесплатно. <br>- доставка в районы Куйбышевский, Самарский, Красноглинский - 200 рублей.<br>доставка осуществляется до подъезда.<br><br>Подъем до квартиры: + 100 рублей/этаж"
+        },
+        "photos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_QLqWJqmknUo4fhQEXx7GyQ_300x300.jpg",
+            "width": 300,
+            "height": 229
+          }
+        ],
+        "bigPhoto": {
+          "id": 0,
+          "url": "http://0.cs-ellpic.yandex.net/market_QLqWJqmknUo4fhQEXx7GyQ_300x300.jpg",
+          "width": 300,
+          "height": 229
+        },
+        "previewPhotos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_QLqWJqmknUo4fhQEXx7GyQ_190x250.jpg",
+            "width": 190,
+            "height": 145
+          }
+        ],
+        "outlet": {
+          "phone": {
+            "country": "7",
+            "city": "846",
+            "number": "231-4363"
+          },
+          "schedule": [
+            {
+              "workingDaysFrom": "1",
+              "workingDaysTill": "5",
+              "workingHoursFrom": "9:00",
+              "workingHoursTill": "16:00"
+            }
+          ],
+          "geo": {
+            "geoId": 51,
+            "longitude": "50.281384885311",
+            "latitude": "53.227294486913"
+          },
+          "pointId": "308716",
+          "pointName": "Интернет магазин Техносклад",
+          "pointType": "DEPOT",
+          "localityName": "Самара",
+          "thoroughfareName": "Елизарова",
+          "premiseNumber": "1",
+          "shopId": 87883
+        },
+        "warranty": 0,
+        "description": "Общие характеристики Тип холодильник с морозильником Расположение отдельно стоящий Расположение морозильной камеры снизу Цвет / Материал покрытия серебристый / пластик Управление электронное Энергопотребление класс A+ (307 кВтч/год) Количество компрессоров 2 Количество камер 2 Количество дверей 2 Габариты (ШxГxВ) 60x65x200 см Холод Размораживание морозильной камеры ручное Размораживание холодильной камеры капельная система Автономное сохранение холода до 22 ч Мощность замораживания до 8.5 кг/cутки..."
+      },
+      {
+        "id": "hXllTvJMORsm3oXYutAKUw",
+        "modelId": "8228926",
+        "name": "Холодильник Bosch KGS 39XL20 R",
+        "onStock": 1,
+        "url": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1lut4HEdww9NzlFwYE-Nq7BQofAkUmZ8YpzFc4tdk3JZbOikwzRRRMJWpeB0EQ63IxYNmoqkGKsm8HjRyDlnzp_LbkaHExBPzYImDQdmwI_-UvlXm2XeJ94NsJOY-AYtz-qtdpT5ItrE8XkjVuRzt2WLwmYdXTy7u7QQaui4pOfrBln70EMIzD3VtMGvJAP0viz6WvBxi8ngcSWthTioBiNvU8BUNVCOzhRvaL30wzZQo89HFiOFI5fxtQFtNNlb_MILnb10W2IEBOY8i7Zx8wn46hgwaS_nqpwvlEau3XpzkNmvjubmftLw7zTqanLB-loXUTasiEcpJdyJGYLEPvWINhyUG9VoWZG9IKyCumoaNYfxwiK8rbTlLqscb9Tilty3plRpOW4n?data=QVyKqSPyGQwwaFPWqjjgNtydMHNnehHqr9s3lnVzTSgjShofJ3piqqaru0ev0BslPGfF9hk-7QMvO1IXuxcHldaw4uZPhK9WirI1zoTqd8-4BuCFEB8vwnXZaWNaWLvzUmsMHlm1p0Jg3gb_c5JUmuqCjnyWXKiY-UQDoD99K6L-EPElhwua9yty4INQZGgoM1W9gAUE74xGqc8O_4hMeAzBrcuAhQ5Th4BdOwcefCGqSecFcIMbI7NbOj7ZW4kB_c98Pu0Bp1ZEfhIuG-1yVbmpPKJXwaBkZEJeIIUe8MR1pmlXTmJA21rmY9Q5YsWfIVHu49GCV-j4jTE1RiTnkyY5pZWJypqsb-Tk6TRy0FjcmXXrnJWBAyAfLGa-e6UU&b64e=2&sign=ca20adba4b9731ee1549939847521656&keyno=1",
+        "price": {
+          "value": "21200",
+          "currencyName": "руб.",
+          "currencyCode": "RUR"
+        },
+        "shopInfo": {
+          "id": 1672,
+          "name": "TechPort.ru - Москва",
+          "yamoney": 0,
+          "rating": 4,
+          "gradeTotal": 9390
+        },
+        "phone": {
+          "number": "+7 (495) 2286669",
+          "sanitizedNumber": "+74952286669",
+          "call": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1jqDX5Q_A4Bwz9Sz2b7ffpWCeqGHr3BtMaYShRJCXGqCUlOujMRTQG2gdySwjzTixap1elhJ5xFyZS-K_hYcoOJq9Gv0BEZhjkv5flWjxb2YB3LtQJNUmTV9P0OrH-Tqxv4bd_-sR1BwQWqouMmQeR7rg-pAcCoh0BRFfkLsAAwguseFMx_WQ6JdmDlAfB2tN1jChOlKNx6smZoLut-TPxxTzW6vs_DvxztaVexG6JbGGub4dUi1Mr0uy5iFWdHCa4o0db4bh-x9q-KoYCaoBkcOk54gqdZNE26fW7tWOu8DHDfBWUFhTiMGvKmGNYegsV-XJzkIB-wy56RnXzS1nhVmj7YyEzv74GvMZtauN2scaJHsUBeI68YZPOQjq4jJwHCvjzePQo5c?data=QVyKqSPyGQwwaFPWqjjgNs3E55X_dOEiRNqPeFaZwQCBp_TqieQ-Kbb5cXZ-k7YhxwgjlV_ILS0hkBoM-S2C2ym9o2cahrqyQzRG_Gz-J_AxhB6Rk-Nf9pDs6MOMD2mbcQvX6ZoJuo4OFQTw7DEMPGlCYGknB8v04gDaGmDkcTfLOH3tx9OLwPwwuU4voY7STL38e8u6hghEF0M2jXwykw&b64e=2&sign=ab1169d86aba1fcfbdd0e12fbe912e5e&keyno=1"
+        },
+        "delivery": {
+          "priorityRegion": 213,
+          "regionName": "Москва",
+          "userRegionName": "Самара",
+          "pickup": false,
+          "store": false,
+          "delivery": true,
+          "free": false,
+          "deliveryIncluded": false,
+          "downloadable": false,
+          "priority": false,
+          "methods": [
+            {
+              "speedFrom": "3",
+              "speedTo": "5"
+            },
+            {
+              "serviceName": "Собственная служба доставки"
+            },
+            {
+              "serviceName": "ПЭК",
+              "speedFrom": "4"
+            }
+          ],
+          "brief": "в г. Самара из Москвы",
+          "full": "Cлужбы доставки: null —  от 3 дней до 5 дней, Собственная служба доставки, ПЭК —  от 4 дней"
+        },
+        "photos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_rUtev-TG12LkD9k5ldvXwQ_150x200.jpg",
+            "width": 150,
+            "height": 150
+          }
+        ],
+        "bigPhoto": {
+          "id": 0,
+          "url": "http://0.cs-ellpic.yandex.net/market_rUtev-TG12LkD9k5ldvXwQ_150x200.jpg",
+          "width": 150,
+          "height": 150
+        },
+        "previewPhotos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_rUtev-TG12LkD9k5ldvXwQ_150x200.jpg",
+            "width": 150,
+            "height": 150
+          }
+        ],
+        "warranty": 1,
+        "description": "Управление электронное Количество компрессоров 2 шт. Зона свежести нет Расположение морозильной камеры снизу Количество камер 2 Общий полезный объем 352 л Объем холодильной камеры 257 л Объем морозильной камеры 95 л Класс энергопотребления A+ Количество дверей 2 Суперзаморозка да Мощность замораживания 9 кг/cутки Размораживание холодильной камеры капельная система Размораживание морозильной камеры ручное Материал покрытия краска Защита от детей нет Стеклянная дверь нет Линейный компрессор нет Инверторный..."
+      },
+      {
+        "id": "UQ1o3bf6HC84JrZrPXC54Q",
+        "modelId": "8228926",
+        "name": "Холодильник Bosch KGS 39XL20 R",
+        "onStock": 1,
+        "url": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1lut4HEdww9NzlFwYE-Nq7AV8kYYiQ2t0Sk3oxmjAgzUQ243gpcfY-SBD7qC2zYikmz_av1S-RvWcVeVAlkiy3BjYxWZ-kocCto0VbNTM5Pa2yWa-xovHjQB4LSaEW95HZjMMzNucg6YmR3wNbiwt6zLhvv6GVXU87y9CnKhP3ALe-bx3p6ehLv8tytCm_ZyomabobD-KzhQBhvorPk2r_Y6zFeUeOTCewjFTMC2Ck1fRxfBzErtXMRIzwLkpmP1mE_kt2QXnsSS5itaP9A0FbWLkuXl3f77ed0Q6Fh6DyX4fh7t2x5KEkLjmr4luPvw0xZeIkmTmDfE2MuNc-MM6iiT5XaolyT5AdJ_j0K2e9trIon0rZAwp3_mk5d9E5l_W-HCoHHcay_2?data=QVyKqSPyGQwwaFPWqjjgNpYZw3JfL9DTLl4JM00QVP-ghYRHdeQtouMCe6DbMjV46aHaI4jHvbaTDwCpjOjODuvnUKm9zEFpoPQS5vhZQo8sbsFn2Jg3ZkI13BRZolxNZhkLuNlfT3Hc3mAxVFYnWUnFBTOhHktgpY120hH-c-eWW0Ru6mIteQm4MaH7gcQR8oKPPhTwdRmWWhd-WRQsn_teUuZxyy88y8KwFo49c1ITpilO6gwfwK1N-Hc6ssaRoXqdbxaMgaLXM7zLMM8Ih8JVKF2LJQni0KpHkeUXcF0&b64e=2&sign=07b35ad37b48f71617588570840f2a8b&keyno=1",
+        "price": {
+          "value": "21860",
+          "currencyName": "руб.",
+          "currencyCode": "RUR"
+        },
+        "shopInfo": {
+          "id": 91,
+          "name": "DOSTAVKA.RU",
+          "yamoney": 1,
+          "rating": 4,
+          "gradeTotal": 4943
+        },
+        "phone": {
+          "number": "8 800 775-05-05",
+          "sanitizedNumber": "88007750505",
+          "call": "http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1jqDX5Q_A4Bwz9Sz2b7ffpUusCzQ7Byz-nqYqBE_tRwkJCcsEb25Cv4wjsouly859b_cixESsosLO76pKb4Q9prn2bRk_aUnevbDlHlKDE6Cf1ul89NGYAaTI2emrpNUKy1acPbh9xmx7MB5Ip2QCVgVOhpTtp-xKoqpSLZEcupDG7Jf5bXkjKVoV4asjJGtHCGdeEkHv4_reObYvuaBKuuJRlrs24e37TAn0Q2MccJzG26qRAcUH62pEfHNCqHPkTa_FK0aGTWp0EODcMtMIWAcwjACpresousgSSqvb0SNWIsvOEqexGp3j8LZkvtxPiJd-mP-6RRLJ_o2juZ5mVB7ma02q0QydJQZyLZJw6IwrI9mq55s27roZtF1hm5vfhTj72UO2_Qj?data=QVyKqSPyGQwwaFPWqjjgNs3E55X_dOEiRNqPeFaZwQCBp_TqieQ-Kbb5cXZ-k7YhxwgjlV_ILS1oabi7P6_F9rPF9ccl6QRZPP7HWuTA-lKLsfArSpAtNPC0tYROM7Yv5BgtnUGn8vekQnLgvIM_ly_0lJSb2vWac3dTsNidE5amziN3LHs3pCA_geXRif6JBRpJYQGi7O3dafeQUcZ_dA&b64e=2&sign=d74711077d67e22cbb2a9364a2269872&keyno=1"
+        },
+        "delivery": {
+          "priorityRegion": 213,
+          "regionName": "Москва",
+          "userRegionName": "Самара",
+          "pickup": false,
+          "store": false,
+          "delivery": true,
+          "free": false,
+          "deliveryIncluded": false,
+          "downloadable": false,
+          "priority": false,
+          "methods": [
+            {
+              "serviceName": "ПЭК",
+              "speedFrom": "4"
+            },
+            {
+              "serviceName": "Деловые Линии",
+              "speedFrom": "4"
+            },
+            {
+              "serviceName": "СПСР",
+              "speedFrom": "4",
+              "speedTo": "6"
+            }
+          ],
+          "brief": "в г. Самара из Москвы",
+          "full": "Cлужбы доставки: ПЭК —  от 4 дней, Деловые Линии —  от 4 дней, СПСР —  от 4 дней до 6 дней"
+        },
+        "photos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_YT5JIKlnN_wptDovvvmunA_900x1200.jpg",
+            "width": 900,
+            "height": 900
+          }
+        ],
+        "bigPhoto": {
+          "id": 0,
+          "url": "http://0.cs-ellpic.yandex.net/market_YT5JIKlnN_wptDovvvmunA_900x1200.jpg",
+          "width": 900,
+          "height": 900
+        },
+        "previewPhotos": [
+          {
+            "id": 0,
+            "url": "http://0.cs-ellpic.yandex.net/market_YT5JIKlnN_wptDovvvmunA_190x250.jpg",
+            "width": 190,
+            "height": 190
+          }
+        ],
+        "warranty": 0,
+        "description": "Холодильник Bosch KGS 39XL20 R, двухкамерный, 352 л., A+ класс, цвет: серебристый, 1 шт."
+      }
+    ],
+    "page": 1,
+    "total": 35,
+    "regionDelimiterPosition": 8,
+    "count": 10
+  }
+}

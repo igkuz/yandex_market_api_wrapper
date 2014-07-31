@@ -66,5 +66,11 @@ module YandexMarketApiClient
                         :page, :count
     end
 
+    get :model_offers, "/v#{config.api_version}/model/{model_id}/offers.#{format}" do |resource|
+      resource.required :geo_id
+      resource.optional :page, :count, :how, :latitude, :longitude,
+                        :sort #price, rating, distance
+    end
+
   end
 end
