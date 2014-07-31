@@ -54,6 +54,8 @@ Default Yandex *api_version* is **1**
 
 Default *deafult_format* is **json**
 
+I'll use *geo_id = 225* (Russia) by default in all queries, you have to choose what geo_id do you need.
+
 ### Client instance
 
 To get a client instance you have to call `get_client` method:
@@ -70,29 +72,29 @@ List of optinal and required params provided in the docs on the link upper.
 + To get all categories:
 
 ```ruby
-client.categories(geo_id: 255).perform.parse
-client.categories(geo_id: 255, page: 1, count: 10, sort: "name").perform.parse
+client.categories(geo_id: 225).perform.parse
+client.categories(geo_id: 225, page: 1, count: 10, sort: "name").perform.parse
 ```
 
 + To get one category info:
 
 ```ruby
-client.category(geo_id: 255, category_id: 1).perform.parse
-client.category(geo_id: 255, category_id: 1).perform.parse
+client.category(geo_id: 225, category_id: 1).perform.parse
+client.category(geo_id: 225, category_id: 1).perform.parse
 ```
 
 + To get all category children:
 
 ```ruby
-client.category_children(geo_id: 255, category_id: 1).perform.parse
-client.category_children(geo_id: 255, category_id: 1, page: 1, count: 10, sort: "name", type: "guru").perform.parse
+client.category_children(geo_id: 225, category_id: 1).perform.parse
+client.category_children(geo_id: 225, category_id: 1, page: 1, count: 10, sort: "name", type: "guru").perform.parse
 ```
 
 + To get all category models:
  
 ```ruby
-client.category_models(geo_id: 255, category_id: 1).perform.parse
-client.category_models(geo_id: 255, category_id: 1, page: 1, count: 10, sort: "name", vendor_id: 1, how: "asc").perform.parse
+client.category_models(geo_id: 225, category_id: 1).perform.parse
+client.category_models(geo_id: 225, category_id: 1, page: 1, count: 10, sort: "name", vendor_id: 1, how: "asc").perform.parse
 ```
 
 ## Contributing
