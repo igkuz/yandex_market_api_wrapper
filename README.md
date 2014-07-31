@@ -97,6 +97,29 @@ client.category_models(geo_id: 225, category_id: 1).perform.parse
 client.category_models(geo_id: 225, category_id: 1, page: 1, count: 10, sort: "name", vendor_id: 1, how: "asc").perform.parse
 ```
 
+### Georegion Resource
+
+The api description is provided [here](http://api.yandex.ru/market/content/doc/dg/reference/georegions.xml).
+List of optinal and required params provided in the docs on the link upper.
+
++ To get all georegions:
+
+```ruby
+client.regions.perform.parse
+```
+
++ To get info for concrete geo_id:
+
+```ruby
+client.region(geo_id: 225).perform.parse
+```
+
++ To get children for geo_id:
+
+```ruby
+client.region_children(geo_id: 225).perform.parse
+```
+
 ## Contributing
 
 1. Fork it
