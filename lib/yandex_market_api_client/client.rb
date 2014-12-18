@@ -76,5 +76,9 @@ module YandexMarketApiClient
                         :sort #price, rating, distance
     end
 
+    get :shop_info, "/v#{config.api_version}/shop/{shop_id}.#{format}" do |resource|
+      resource.required :shop_id
+    end
+
   end
 end
