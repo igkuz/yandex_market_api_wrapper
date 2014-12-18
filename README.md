@@ -12,7 +12,7 @@ the beginnig.
 
 Add this line to your application's Gemfile:
 
-    gem 'yandex_market_api_wrapper'
+    gem 'yandex_market_api_client'
 
 And then execute:
 
@@ -20,13 +20,13 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install yandex_market_api_wrapper
+    $ gem install yandex_market_api_client
 
 ## Usage
 
 ### Basic Information
 
-The structure of the api response will not be provided here in case of large data in it. 
+The structure of the api response will not be provided here in case of large data in it.
 You can look for it in Yandex docs [here](http://api.yandex.ru/market/content/doc/dg/concepts/about.xml).
 
 ### Configuration
@@ -118,6 +118,17 @@ client.region(geo_id: 225).perform.parse
 
 ```ruby
 client.region_children(geo_id: 225).perform.parse
+```
+
+### Shop Resource
+
+The api description is provided [here](https://tech.yandex.ru/market/content/doc/dg/reference/shops-docpage/).
+List of options and required params is provided in the docs on the link upper.
+
++ To get shop info:
+
+```ruby
+client.shop_info(shop_id: 24049).perform.parse
 ```
 
 ## Contributing
