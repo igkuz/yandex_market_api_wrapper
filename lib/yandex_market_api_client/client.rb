@@ -80,5 +80,14 @@ module YandexMarketApiClient
       resource.required :shop_id
     end
 
+    get :shop_reviews, "/v#{config.api_version}/shop/{shop_id}/opinion.#{format}" do |resource|
+      resource.required :shop_id
+      resource.optional :sort,
+                        :how,
+                        :grade,
+                        :max_comments, # maximum comments in output
+                        :page, :count
+    end
+
   end
 end

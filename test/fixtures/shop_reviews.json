@@ -1,0 +1,59 @@
+{
+  "shopOpinions": {
+    "opinion": [
+      {
+        "id": 60708018,
+        "date": 1452847976000,
+        "grade": -1,
+        "text": "test comment",
+        "agree": 0,
+        "reject": 0,
+        "visibility": "NAME",
+        "author": "test auth",
+        "authorInfo": {
+          "grades": 4
+        },
+        "pro": "Гарантийный сервис.",
+        "contra": "Не получил товар купленный в интернет магазине.",
+        "region": 51,
+        "comments": [],
+        "shopOrderId": "004-56971985",
+        "delivery": "PICKUP",
+        "shop": {
+          "id": 1,
+          "name": "Test shop name"
+        },
+        "problem": "UNRESOLVED",
+        "anonymous": false
+      },
+
+      {
+        "id": 60700191,
+        "date": 1452799914000,
+        "grade": 2,
+        "text": "test comment 2",
+        "agree": 0,
+        "reject": 0,
+        "visibility": "NAME",
+        "author": "test author 2",
+        "authorInfo": {
+          "grades": 2
+        },
+        "pro": "Рядом с домом",
+        "contra": "не нашла",
+        "region": 213,
+        "comments": [],
+        "shopOrderId": "002-33354169",
+        "delivery": "PICKUP",
+        "shop": {
+          "id": 1,
+          "name": "Test shop name"
+        },
+        "anonymous": false
+      }
+    ],
+    "total": 13382,
+    "page": 1,
+    "count": 10
+  }
+}

@@ -21,4 +21,11 @@ class ShopResourceTest < TestCase
 
     assert_requested stub
   end
+
+  def test_getting_shop_reviews
+    stub = stub_request(:get, @shop_url % "1" + "/opinion.json").
+      to_return(@return.merge(body: load_fixture('shop_reviews.json')))
+
+    @client.shop_reviews(shop_id: 1).perform.parse
+  end
 end
