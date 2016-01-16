@@ -19,4 +19,5 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency "weary"
   gem.add_development_dependency "rake"
+  gem.required_ruby_version = '~> 2.0'
 end
